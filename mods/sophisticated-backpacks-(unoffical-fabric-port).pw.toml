@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks (Unoffical Fabric port)"
+filename = "sophisticatedbackpacks-1.21.1-3.21.1.1.82.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ouNrBQtq/versions/gpSJccbD/sophisticatedbackpacks-1.21.1-3.21.1.1.82.jar"
+hash-format = "sha512"
+hash = "cd28e6d21fea63266737a7ea8d3fe6ac34de65c894605893ecfaa953c1403d20a42bc99cddba1256ab31d1e4688e8d7002ee479993d2104e13040068430e1769"
+
+[update]
+[update.modrinth]
+mod-id = "ouNrBQtq"
+version = "gpSJccbD"

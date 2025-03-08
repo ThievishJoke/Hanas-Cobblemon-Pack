@@ -1,0 +1,13 @@
+name = "LivelierPokemon"
+filename = "livelierpokemon-fabric-2.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TrneBt3p/versions/QrenW0p3/livelierpokemon-fabric-2.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c4426aa368445e01435a29badd67f043b73afca590cf74ed64c792cd59491d97f27e2d82345e4201166ca804fc70dbc9164f980454ce0a6680ed97d480a6536f"
+
+[update]
+[update.modrinth]
+mod-id = "TrneBt3p"
+version = "QrenW0p3"

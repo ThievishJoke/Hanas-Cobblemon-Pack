@@ -1,0 +1,13 @@
+name = "Cobblemon Wiki Gui"
+filename = "Cobblemon-Wiki-Gui-1.1.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KP4CLlU/versions/cECcTtv3/Cobblemon-Wiki-Gui-1.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "eef64ba926145346450b7384c175e87e3676aa898ffe75f1cdac1d9cd9625c2f232ab0855a3e32eeeb10d5002a9668a19098f87f0105b838eaa13ee3d0583203"
+
+[update]
+[update.modrinth]
+mod-id = "1KP4CLlU"
+version = "cECcTtv3"

@@ -1,0 +1,13 @@
+name = "Headpat a Friend!"
+filename = "headpats-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vETxChiy/versions/CC9qSsBb/headpats-1.0.3.jar"
+hash-format = "sha512"
+hash = "43b0065081473cfa21f77ac5f072eec83a5aa4551fb5c8fe6cbe53e74dd2aed863a37fc3b15a89fe2e2c5387c1e52cdadf34a1767e5d8da5c53606c2981bd4ec"
+
+[update]
+[update.modrinth]
+mod-id = "vETxChiy"
+version = "CC9qSsBb"

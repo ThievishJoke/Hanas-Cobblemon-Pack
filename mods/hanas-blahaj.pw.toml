@@ -1,0 +1,13 @@
+name = "Hanas Blahaj"
+filename = "hanas-blahaj-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H6WETF49/versions/RcGS5gzP/hanas-blahaj-1.1.0.jar"
+hash-format = "sha512"
+hash = "96d571a13ca7adc05941aa203f6aafe6cd991a5d67eda0e6cda02b15968ad521f4da41a88f7af99bc53a919295608997442b4d05ed6ba50f381e563f7e93d04c"
+
+[update]
+[update.modrinth]
+mod-id = "H6WETF49"
+version = "RcGS5gzP"

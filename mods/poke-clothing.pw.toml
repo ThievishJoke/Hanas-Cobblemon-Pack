@@ -1,0 +1,13 @@
+name = "Poke Clothing"
+filename = "poke-clothing-1.0+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/enyi2m8u/versions/htiZ2rgv/poke-clothing-1.0%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "12994d4a9fc27102d23d16669ff7e63d7290ce8c15ce30da5cef7b46b59af447808668caa63e0ad0919c604bef97597528cea58368304b8bd8793e4788524d3b"
+
+[update]
+[update.modrinth]
+mod-id = "enyi2m8u"
+version = "htiZ2rgv"

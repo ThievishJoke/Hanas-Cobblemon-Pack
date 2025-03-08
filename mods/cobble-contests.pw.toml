@@ -1,0 +1,13 @@
+name = "Cobble Contests"
+filename = "cobble_contests-v1.0.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JUCZmH05/versions/mes0O09I/cobble_contests-v1.0.4-fabric.jar"
+hash-format = "sha512"
+hash = "bd55b95cd5007799eefc5fc6f35f7e8efb174175fa0a4f58f4e67a7690c74a7de8ed87929a70c2a86a771265f5dba3276dbb5ba28d7674f60991f3a39c0ebffb"
+
+[update]
+[update.modrinth]
+mod-id = "JUCZmH05"
+version = "mes0O09I"

@@ -1,0 +1,13 @@
+name = "Trial Vault Restock"
+filename = "trialrestock-1.0.4-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GZXNxeIC/versions/9HiJUxkj/trialrestock-1.0.4-1.21.jar"
+hash-format = "sha512"
+hash = "8f4621ac77c4a4a1d9fd2cc693b204581558fad4b664f1332eda80f2b339f82acef87c735625472596e1329a8fb4c25c2c031bfb458f40d43f5f369f3b6488d7"
+
+[update]
+[update.modrinth]
+mod-id = "GZXNxeIC"
+version = "9HiJUxkj"

@@ -1,0 +1,13 @@
+name = "PeacefulZCrystals"
+filename = "PeacefulZCrystals-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/owtu9mQy/versions/ZL47egbH/PeacefulZCrystals-1.1.1.jar"
+hash-format = "sha512"
+hash = "0e2c5943be72545917eeb19c5cbfe35e9ad44cbf63c72b9eca8f6f460b4dda532411efbb72804969833029e11199cbe18cb0e6e822313bcbbf0c89b388eae92b"
+
+[update]
+[update.modrinth]
+mod-id = "owtu9mQy"
+version = "ZL47egbH"

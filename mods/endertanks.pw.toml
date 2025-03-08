@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-fabric-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/kBu8KCpK/endertanks-fabric-1.21.1-0.1.jar"
+hash-format = "sha512"
+hash = "11d658fd2e3249f66d4ea2fe4342da4e431b2fb2dc9934fa3fedd63aec3ffa0e630b685e4269535d64b99efb33010e15b78864797c4c7069ace39a8c9db1a319"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "kBu8KCpK"

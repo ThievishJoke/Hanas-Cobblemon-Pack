@@ -1,0 +1,13 @@
+name = "Tim's Ultimately Comprehensive Cobblemon Edits of Destiny"
+filename = "tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VWXftgW/versions/FcMxaAkU/tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-2.jar"
+hash-format = "sha512"
+hash = "6fe4ff532c780fd4e322999d153ea985ef3fa7f2f4893de0626268ad22932b08df37eea715980f7b072bdb6cc7a8c9e489f8256284d03efdc6c3d620a852bfcf"
+
+[update]
+[update.modrinth]
+mod-id = "6VWXftgW"
+version = "FcMxaAkU"

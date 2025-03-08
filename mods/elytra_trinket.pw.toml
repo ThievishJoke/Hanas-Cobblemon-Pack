@@ -1,0 +1,13 @@
+name = "Elytra Trinket"
+filename = "elytra_trinket-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wk57PrDM/versions/piDrfmnX/elytra_trinket-1.0.9.jar"
+hash-format = "sha512"
+hash = "f21346473cffca3dac1af2339f9786e49961057667f895c845253d0b94eac4b8e9f8021df2934e5e98999d6792ba991a1a4b115f3c038e2e96b086c317a45996"
+
+[update]
+[update.modrinth]
+mod-id = "wk57PrDM"
+version = "piDrfmnX"

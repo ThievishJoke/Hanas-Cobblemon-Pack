@@ -1,0 +1,13 @@
+name = "Cobblemon Hunt"
+filename = "Hunt-1.2.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QMAwqHhY/versions/a4MOp9tX/Hunt-1.2.1-fabric.jar"
+hash-format = "sha512"
+hash = "32795554dd9226e70c67a8bc7d9a0544f84b777ede3ebbc767e4483b748efcde78d1e8aace522873ff72d7a20b62bef56b0a050a744eef3f3f70866f4834e4b5"
+
+[update]
+[update.modrinth]
+mod-id = "QMAwqHhY"
+version = "a4MOp9tX"

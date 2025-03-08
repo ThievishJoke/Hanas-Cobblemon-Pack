@@ -1,0 +1,13 @@
+name = "Hanas Enchantments"
+filename = "hanas-enchantments-v0.7.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qy0Keq7s/versions/qUIKidTV/hanas-enchantments-v0.7.7.jar"
+hash-format = "sha512"
+hash = "f1a9ba5ccaeb4f8a45daef99c92dc64876bdeab0b1f68128c0982a854a71a1b43f4b49e8aed96c976af65f6fe42417849011a5b8524e76cbd01474f2122a843b"
+
+[update]
+[update.modrinth]
+mod-id = "Qy0Keq7s"
+version = "qUIKidTV"
