@@ -9,4 +9,4 @@ fakemon from the community, and become the ultimate Pokémon Trainer in an immer
 
 ## License
 
-Hana's Cobblemon pack is licensed under [GNU General Public License v3.0](/LICENSE).
+Hana's Cobblemon pack is licensed under [GNU Lesser General Public License v3.0](/LICENSE).
