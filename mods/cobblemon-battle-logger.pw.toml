@@ -1,6 +1,6 @@
 name = "Cobblemon Battle Logger"
 filename = "dystoria-logger-1.0.0+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hpf08xql/versions/BhrTxOoV/dystoria-logger-1.0.0%2B1.21.1.jar"

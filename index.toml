@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "8d758a3a7e59bca815edd8e5b86c79924f88e83c73da9b9c7bfa5864d4b30194"
+
+[[files]]
+file = ".github/FUNDING.yml"
+hash = "aed12a93aab0c550b08910d232f40d2599e6549b03d5ea095e88464f64c7ae10"
+
+[[files]]
+file = ".github/workflows/release.yml"
+hash = "69439d67015786f17a55a41173877f8d775bd76e42efa90636201c992f90fb4e"
+
+[[files]]
 file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
@@ -1507,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-logger.pw.toml"
-hash = "e7d3346e82c866e14b8988ec6304addaa7e735207550775ce20fc974aff979ff"
+hash = "55701953bd4b36429b3174f58a2a6cdbdc0162e632ae181e105afdfd25b347f1"
 metafile = true
 
 [[files]]
