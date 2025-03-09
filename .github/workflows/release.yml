@@ -1,0 +1,83 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version"
+        required: true
+      release_type:
+        description: "Release type"
+        type: choice
+        required: true
+        options:
+          - "release"
+          - "alpha"
+          - "beta"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      PACK_NAME: "Hana's Cobblemon Pack"
+      MINECRAFT_VERSION: ""
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install packwiz
+        uses: actionhippie/install-packwiz@v1
+
+      - name: Install toml-cli
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: toml-cli
+
+      - name: Get Minecraft version
+        run: |
+          echo "MINECRAFT_VERSION=$(toml get pack.toml versions.minecraft | sed -e 's/^"//' -e 's/"$//')" >> $GITHUB_ENV
+
+      - name: Set pack version
+        run: |
+          echo "$(toml set pack.toml version ${{ github.event.inputs.version }})" > pack.toml
+
+      - name: Refresh & build
+        run: packwiz refresh && packwiz mr export
+
+      - name: Publish artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifacts
+          path: "*.mrpack"
+
+      - name: Release to Modrinth & GitHub
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: htn7F7cq
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          github-tag: ${{ github.event.inputs.version }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-prerelease: ${{ github.event.inputs.release_type != 'release' }}
+
+          name: ${{ env.PACK_NAME }} v${{ github.event.inputs.version }}
+          version: ${{ github.event.inputs.version }}
+          version-type: ${{ github.event.inputs.release_type }}
+          game-versions: ${{ env.MINECRAFT_VERSION }}
+          loaders: fabric
+
+          files: "*.mrpack"
+
+      # - name: Release
+      #   uses: softprops/action-gh-release@v1
+      #   with:
+      #     files: dist/*
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     tag: ${{ github.ref }}
+      #     title: Release ${{ github.ref }}
+      #     body: ${{ github.event.inputs.body }}
