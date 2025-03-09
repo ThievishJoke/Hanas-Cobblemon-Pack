@@ -1,6 +1,6 @@
 name = "Nemo's Better Mending"
 filename = "nemos-better-mending-1.1.1-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/D9vJXeSm/versions/sS5m4ugT/nemos-better-mending-1.1.1-1.21.1.jar"

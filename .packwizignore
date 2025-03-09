@@ -1,0 +1,9 @@
+*.py
+modrinth.index.json
+modlist.txt
+
+*.log
+
+# exported modpack types
+*.mrpack
+*.zip

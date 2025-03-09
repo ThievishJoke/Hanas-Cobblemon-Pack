@@ -1,0 +1,13 @@
+name = "MissingMons [cobblemon]"
+filename = "MissingMon_v3.4 [Bolts & Brawn Update].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/hwZXMARs/MissingMon_v3.4%20%5BBolts%20%26%20Brawn%20Update%5D.zip"
+hash-format = "sha512"
+hash = "06235669bfcfe0981f72e0b50b0525f38c3e5949763aaa1863646971617ad7c09af34f2fa7f95d52127764155e444b251ddeb14f51c6498fd77dd9c84d44898a"
+
+[update]
+[update.modrinth]
+mod-id = "jbbBrQVa"
+version = "hwZXMARs"

@@ -1,0 +1,13 @@
+name = "ScrappedMons - A Cobblemon Addon"
+filename = "ScrappedMons_1.1fix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bjB16Fbk/versions/6B1HMjQJ/ScrappedMons_1.1fix.zip"
+hash-format = "sha512"
+hash = "cf692a2047d8053811019d7ad0dcb98c571a287637f80a78274f9b3fccc54d0f3aaf5c9c8a90a88b52f878c903d9ddf4b04bc9a5ee65e06f123a2f3050085d96"
+
+[update]
+[update.modrinth]
+mod-id = "bjB16Fbk"
+version = "6B1HMjQJ"

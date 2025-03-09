@@ -1,0 +1,13 @@
+name = "Cobblemon Interface: Modded"
+filename = "Cobblemon Interface Modded v1.7.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5DF3hBIs/versions/gJno9JGU/Cobblemon%20Interface%20Modded%20v1.7.0.zip"
+hash-format = "sha512"
+hash = "6c05ee87083ee1b32fa7270044f2160c1839a632f5688859a5568c7665dcb76b2fcd8c1829405bf2eb03c9c0d82add2b31c5df86b99ea4366e3978acf3df19d4"
+
+[update]
+[update.modrinth]
+mod-id = "5DF3hBIs"
+version = "gJno9JGU"

@@ -1,6 +1,6 @@
 name = "PeacefulZCrystals"
 filename = "PeacefulZCrystals-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/owtu9mQy/versions/ZL47egbH/PeacefulZCrystals-1.1.1.jar"

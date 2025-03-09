@@ -1,6 +1,6 @@
 name = "Passive Endermen"
 filename = "passiveendermen-1.21.1-4.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/N7UFQA9x/versions/yAOEluvQ/passiveendermen-1.21.1-4.8.jar"

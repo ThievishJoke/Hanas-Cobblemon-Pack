@@ -1,6 +1,6 @@
 name = "Impactor"
 filename = "Impactor-Fabric-5.3.0+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/Rw1kGsvB/Impactor-Fabric-5.3.0%2B1.21.1.jar"

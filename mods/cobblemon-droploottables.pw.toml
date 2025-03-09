@@ -1,6 +1,6 @@
 name = "Cobblemon Drop Loot Tables"
 filename = "cobblemon-droploottables-1.6-fabric-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8EoIMfd7/versions/aUv1oDdK/cobblemon-droploottables-1.6-fabric-1.1.0.jar"

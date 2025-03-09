@@ -1,0 +1,7 @@
+modrinth.index.json
+
+*.log
+
+# exported modpack types
+*.mrpack
+*.zip

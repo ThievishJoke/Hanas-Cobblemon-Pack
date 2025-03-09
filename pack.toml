@@ -1,13 +1,16 @@
 name = "Hana's Cobblemon Pack"
 author = "BaLLducked, jadelily18"
-version = "1.6.20"
+version = "1.6.21"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6679cdf78286da6b0858e6ee3c54d3ce48803e910f50d560111d53eea6cf647c"
+hash = "ac9c26433c5cb9173152cddf17111def3bbd5d77a81a471bbcfa68965da9c3ac"
 
 [versions]
 fabric = "0.16.10"
 minecraft = "1.21.1"
+
+[options]
+datapack-folder = "datapacks"

@@ -1,6 +1,6 @@
 name = "Trial Vault Restock"
 filename = "trialrestock-1.0.4-1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GZXNxeIC/versions/9HiJUxkj/trialrestock-1.0.4-1.21.jar"

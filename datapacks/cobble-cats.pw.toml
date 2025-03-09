@@ -1,0 +1,13 @@
+name = "CobbleCats [cobblemon]"
+filename = "cobble_cats.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K2Q9LnPH/versions/urKmsl5q/cobble_cats.zip"
+hash-format = "sha512"
+hash = "a400ebf1e2f38250ba5351ec674496fa99a408d2e3388a7fa369bd47bc338ebedf5adc75a9cc1e88e2199c320d640900d6085f30f47c2a70d2dad13979e5882c"
+
+[update]
+[update.modrinth]
+mod-id = "K2Q9LnPH"
+version = "urKmsl5q"

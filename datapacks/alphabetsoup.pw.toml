@@ -1,0 +1,13 @@
+name = "Alphabet Soup [Cobblemon]"
+filename = "AlphabetSoup-v2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJRcfnAh/versions/2FMZ0j7c/AlphabetSoup-v2.2.zip"
+hash-format = "sha512"
+hash = "3d8f33c9538321d75c9e03a7d972d7ed182bda3fb4d314cf18abcf98e81223b6890f30beeb577efef3a3e45d619076f31b323fa0164430e53f0b045fdd2f85f2"
+
+[update]
+[update.modrinth]
+mod-id = "IJRcfnAh"
+version = "2FMZ0j7c"

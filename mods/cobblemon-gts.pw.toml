@@ -1,6 +1,6 @@
 name = "Cobblemon GTS"
 filename = "Gts-2.4.2-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UTjx5ypK/versions/NmXOhOIJ/Gts-2.4.2-fabric.jar"
