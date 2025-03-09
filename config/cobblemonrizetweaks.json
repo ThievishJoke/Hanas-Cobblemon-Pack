@@ -1,0 +1,10 @@
+{
+  "configOptions": {
+    "move_tips": true,
+    "cobblemonuitweaks_pc_scroll_fix": true,
+    "pc_box_jump": true,
+    "hidden_ability_highlighter": true,
+    "type_changes": true,
+    "cobblemonuitweaks_last_pc_box_fix": true
+  }
+}

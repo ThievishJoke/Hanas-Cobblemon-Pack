@@ -1,0 +1,43 @@
+{
+  "pc_wallpapers": {
+    "singleplayer": {
+      "3": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "4": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "2": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "1": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "0": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "5": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "6": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "7": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "8": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "9": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "10": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "11": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "12": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "13": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "14": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "15": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "16": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "17": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "18": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "19": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "20": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "21": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "22": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "23": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "24": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "25": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "26": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "27": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "28": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png",
+      "29": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/gray_wallpaper.png"
+    }
+  },
+  "pc_search": true,
+  "open_box_history": false,
+  "pc_iv_display": true,
+  "custom_pc_box_names": true,
+  "custom_pc_wallpapers": true,
+  "enhanced_egg_lore": true,
+  "shiny_egg_indicator": true
+}

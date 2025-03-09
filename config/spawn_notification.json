@@ -1,0 +1,29 @@
+{
+  "broadcastShiny": true,
+  "broadcastCoords": true,
+  "broadcastBiome": false,
+  "playShinySound": true,
+  "playShinySoundPlayer": false,
+  "announceCrossDimensions": false,
+  "broadcastDespawns": false,
+  "broadcastVolatileDespawns": false,
+  "broadcastSpeciesName": true,
+  "broadcastPlayerSpawnedOn": false,
+  "disableWaypoints": false,
+  "broadcastRange": 512,
+  "playerLimit": -1,
+  "labelsForBroadcast": [
+    "legendary",
+    "mythical",
+    "paradox",
+    "ultra_beast",
+    "pseudo_legendary"
+  ],
+  "bucketsForBroadcast": [],
+  "blacklistForBroadcast": [],
+  "formatting": {
+    "label.legendary": "LIGHT_PURPLE",
+    "bucket.ultra-rare": "AQUA",
+    "shiny": "GOLD"
+  }
+}
