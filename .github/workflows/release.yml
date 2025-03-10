@@ -72,12 +72,3 @@ jobs:
           loaders: fabric
 
           files: "*.mrpack"
-
-      # - name: Release
-      #   uses: softprops/action-gh-release@v1
-      #   with:
-      #     files: dist/*
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     tag: ${{ github.ref }}
-      #     title: Release ${{ github.ref }}
-      #     body: ${{ github.event.inputs.body }}
