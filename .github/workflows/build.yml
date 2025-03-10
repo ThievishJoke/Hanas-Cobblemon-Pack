@@ -1,0 +1,44 @@
+name: Build
+
+on: [pull_request, push]
+
+jobs:
+  release:
+    name: Build pack version
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      PACK_NAME: "Hana's Cobblemon Pack"
+      SHORT_COMMIT: ""
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install packwiz
+        uses: actionhippie/install-packwiz@v1
+
+      - name: Install toml-cli
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: toml-cli
+
+      - name: Get short commit hash
+        run: |
+          echo "SHORT_COMMIT=$(git rev-parse --short ${{ github.sha }})" >> $GITHUB_ENV
+
+      - name: Set pack version
+        run: |
+          echo "$(toml set pack.toml version ${{ env.SHORT_COMMIT }})" > pack.toml
+
+      - name: Refresh & build
+        run: packwiz refresh && packwiz mr export
+
+      - name: Publish artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifacts
+          path: "*.mrpack"
