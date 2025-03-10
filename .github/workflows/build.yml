@@ -37,8 +37,8 @@ jobs:
       - name: Refresh & build
         run: packwiz refresh && packwiz mr export
 
-      - name: Publish artifact
-        uses: actions/upload-artifact@v2
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4.6.1
         with:
           name: artifacts
           path: "*.mrpack"
