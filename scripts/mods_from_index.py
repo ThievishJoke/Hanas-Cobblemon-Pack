@@ -6,7 +6,7 @@ import re
 
 # Adds projects from a Modrinth index file with packwiz
 def main():
-    if 2 != len(sys.argv):
+    if len(sys.argv) > 1:
         print("Usage: python mods_from_index.py <url_list_file>")
         sys.exit(1)
     index_file = sys.argv[1]

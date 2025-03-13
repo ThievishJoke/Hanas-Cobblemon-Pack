@@ -1,13 +1,13 @@
 name = "CobbleMotion v1.2"
-filename = "CobbleMotion_v1.0.zip"
+filename = "Cobblemotion_v1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lIDAJAby/versions/Qs7TDYUo/CobbleMotion_v1.0.zip"
+url = "https://cdn.modrinth.com/data/lIDAJAby/versions/fPPILCJc/Cobblemotion_v1.2.zip"
 hash-format = "sha512"
-hash = "5c8f0cd42d0468a66491bffa54e58b1297a4acd172f4013de5286d0e1ecc807c280f23a7d9581f96b5af28631c36ce53da53330df49332afc46a3d787bfc3051"
+hash = "8fe9ff3c046e2ab13a617ba6b9da27512f9abb60ff082a5cc4fb1a0e3f7ba4b0096db1be48479715f63a834d384f633715dc2521b98b85aae293be8b5b31c2b7"
 
 [update]
 [update.modrinth]
 mod-id = "lIDAJAby"
-version = "Qs7TDYUo"
+version = "fPPILCJc"

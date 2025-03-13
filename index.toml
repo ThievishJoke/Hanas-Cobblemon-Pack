@@ -2074,6 +2074,11 @@ hash = "6797603287ce9f6d67067cb0cab3dc47d2535bd9a558c1ec2edd1a1d5c908d80"
 metafile = true
 
 [[files]]
+file = "mods/more-cobblemon-move-anims.pw.toml"
+hash = "e2e0ef989b8fd4b2080bb141555c94d6eb4501934f1e8dc1382858f37f05e16d"
+metafile = true
+
+[[files]]
 file = "mods/more-cobblemon-tweaks.pw.toml"
 hash = "df1738bfce3f9953b2af61ffa62c937491d6518288ebb004228b7f17dd994256"
 metafile = true

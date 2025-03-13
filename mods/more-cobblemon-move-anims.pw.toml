@@ -1,0 +1,13 @@
+name = "More Cobblemon Move Animations"
+filename = "more-cobblemon-move-anims-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jYnliKOv/versions/Jpg4SJ7e/more-cobblemon-move-anims-1.2.jar"
+hash-format = "sha512"
+hash = "6296ba2a5cba615c7f341f28811db5be118cfd4bbf4f8ab0311ba4694f62ed850023fac63a48d8ff05e95942eace48718342b32b33bd483c3b48e97967e98c13"
+
+[update]
+[update.modrinth]
+mod-id = "jYnliKOv"
+version = "Jpg4SJ7e"

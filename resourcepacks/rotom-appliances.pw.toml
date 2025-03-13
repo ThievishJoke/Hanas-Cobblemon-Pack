@@ -1,0 +1,13 @@
+name = "Rotom Appliances"
+filename = "Rotom Appliances 1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NciCivP1/versions/dUml7QCF/Rotom%20Appliances%201.2.zip"
+hash-format = "sha512"
+hash = "ceba4957deb03931d27a700d186588adc335a6a73c985ddf5901abb3e4a1efc8771c8e5ef368de2f67f5c7d43078cabcaadc59d8820a2e1cbd8e5bfb53f8beee"
+
+[update]
+[update.modrinth]
+mod-id = "NciCivP1"
+version = "dUml7QCF"

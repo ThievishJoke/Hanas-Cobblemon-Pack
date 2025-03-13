@@ -1,0 +1,13 @@
+name = "Cobblemon Fakemon: Lively 'Mons"
+filename = "Cobblemon Lively 'Mons 1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KLxbNxCP/versions/HJCX46Ih/Cobblemon%20Lively%20%27Mons%201.5.zip"
+hash-format = "sha512"
+hash = "30a68820e851c9aa29d895910cfc62ae6f2fba2757ba8a1d8ed5781554eca2eb41466d00b2c86560479f8b40c5d6b2ae168ad51e34b7335a0fc0d66f6d532521"
+
+[update]
+[update.modrinth]
+mod-id = "KLxbNxCP"
+version = "HJCX46Ih"
