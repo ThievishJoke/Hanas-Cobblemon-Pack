@@ -1,18 +1,12 @@
-*.py
-modrinth.index.json
-modlist.txt
-
+# repository stuff
+/.github
+/scripts
 *.log
 
 # exported modpack types
 *.mrpack
 *.zip
 
-# don't include repository scripts
-/scripts
-
 # don't include base resource pack/data pack directories
 /resourcepacks
 /datapacks
-
-/.github
