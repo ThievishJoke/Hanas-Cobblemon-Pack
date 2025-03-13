@@ -2,6 +2,11 @@ modrinth.index.json
 
 *.log
 
-# exported modpack types
-*.mrpack
-*.zip
+# ignore exported modpack types in the root directory
+/*.mrpack
+/*.zip
+
+# We don't want git to track this, since we already have them in ./resourcepacks
+# and we're using a script to copy them to the right place
+config/openloader/resources/*
+config/openloader/data/*

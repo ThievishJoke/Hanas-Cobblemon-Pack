@@ -7,6 +7,14 @@ Hana's Cobblemon Pack is a modpack made for a small server that has you explorin
 catching and training your favorite Pokémon, and battling others. Build your dream team, find amazing
 fakemon from the community, and become the ultimate Pokémon Trainer in an immersive experience!
 
+## Build
+
+To build this modpack, use the build script in `scripts`.
+
+```sh
+python3 ./scripts/build.py
+```
+
 ## License
 
 Hana's Cobblemon pack is licensed under [GNU Lesser General Public License v3.0](/LICENSE).

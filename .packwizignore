@@ -7,3 +7,12 @@ modlist.txt
 # exported modpack types
 *.mrpack
 *.zip
+
+# don't include repository scripts
+/scripts
+
+# don't include base resource pack/data pack directories
+/resourcepacks
+/datapacks
+
+/.github
