@@ -2,6 +2,8 @@
 /.github
 /scripts
 *.log
+.editorconfig
+TODO.md
 
 # exported modpack types
 *.mrpack

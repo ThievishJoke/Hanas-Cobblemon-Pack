@@ -31,8 +31,17 @@ def build():
     if pw_data_pack_dir.exists:
         copy_data_packs()
 
+    print("Refreshing packwiz and exporting modpack...")
+
     os.system("packwiz refresh")
     os.system("packwiz mr export")
+
+    print("Cleaning up...")
+
+    os.system("rm -rf config/openloader/resources/*")
+    os.system("rm -rf config/openloader/data/*")
+
+    print("Done! :3")
         
 
 if __name__ == '__main__':

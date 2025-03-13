@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "8d758a3a7e59bca815edd8e5b86c79924f88e83c73da9b9c7bfa5864d4b30194"
-
-[[files]]
 file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
 file = "README.md"
 hash = "5eb8aa12f967f97c0e1fd42d8879a1b9ee26f3b67feafaed5c092fc68904e4d9"
-
-[[files]]
-file = "TODO.md"
-hash = "b04f77368670a227fc3a0b3b8b8afbc08c7a0ee24b81112e6b259e8bf3b9438e"
 
 [[files]]
 file = "config/Adorn.json5"
