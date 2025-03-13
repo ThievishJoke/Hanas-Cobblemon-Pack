@@ -27,8 +27,10 @@ def copy_data_packs():
 
 def build():
     if pw_resource_pack_dir.exists:
+        openloader_resource_pack_dir.mkdir(parents=True, exist_ok=True)
         copy_resource_packs()
     if pw_data_pack_dir.exists:
+        openloader_data_pack_dir.mkdir(parents=True, exist_ok=True)
         copy_data_packs()
 
     print("Refreshing packwiz and exporting modpack...")
