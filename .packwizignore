@@ -6,8 +6,8 @@
 TODO.md
 
 # exported modpack types
-*.mrpack
-*.zip
+/*.mrpack
+/*.zip
 
 # don't include base resource pack/data pack directories
 /resourcepacks
