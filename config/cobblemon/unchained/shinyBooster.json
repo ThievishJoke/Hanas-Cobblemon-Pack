@@ -4,9 +4,9 @@
   "captureStreakPoints": 0,
   "captureCountPoints": 1,
   "thresholds": {
-    "100": 1,
-    "300": 2,
-    "500": 3
+    "75": 1,
+    "225": 2,
+    "375": 3
   },
   "debug": false,
   "blacklist": [],

@@ -6,7 +6,8 @@
       "command_feedback": true,
       "commands": {
         ".*": "allow",
-		"worldedit.*": "allow"
+		    "worldedit.*": "allow",
+        "cobblemontools.command.getteam": "allow"
       }
     }
   },
@@ -46,7 +47,10 @@
         "openpac-parties destroy": "allow",
         "openpac-parties leave": "allow",
         "openpac-parties member": "allow",
-        "openpac-parties transfer": "allow"
+        "openpac-parties transfer": "allow",
+        "cobblemontools.command.getteam": "deny",
+        "cobblemontools.command.uploadteam": "allow",
+        "cobblemontools.command.getpokepaste": "allow"
       }
     }
   }

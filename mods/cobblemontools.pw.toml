@@ -1,0 +1,13 @@
+name = "Cobblemon Tools"
+filename = "CobblemonTools-1.1.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrixRmYK/versions/mJjFa5CU/CobblemonTools-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2c38e80e67adc280657c88e7fa8e94f11d6c2db07e342a5b0c150b9e6cbb1e67e278eacc114f2d6421e190b1c2be49163421d6f0f9f322b767cfb6b6c1acff85"
+
+[update]
+[update.modrinth]
+mod-id = "WrixRmYK"
+version = "mJjFa5CU"

@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "a4e4644ebb9d5987af382071b89003c82249ca73e77cad7a2ca0c187f126f4de"
+hash = "592909145bfc00c7b111529c0997e862f539c510d00afd352af8c10dcf04ee6b"
 metafile = true
 
 [[files]]
@@ -1457,7 +1457,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-droploottables.pw.toml"
-hash = "11f5d4b70669f13b49e78d3b68a7882456f1d3cee4c56a8cedaf2b538539b42e"
+hash = "a8ef24d69710c7227f08852e5fb3e621fff9aefafa9d79dcb58b952d24c5b788"
 metafile = true
 
 [[files]]
@@ -1558,6 +1558,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonrizetweaks.pw.toml"
 hash = "21e6baad95fe66d04640f0ff40ae1ccb67eae49d8912842d8b38348cda22bb30"
+metafile = true
+
+[[files]]
+file = "mods/cobblemontools.pw.toml"
+hash = "d06735ff17ca610a037507fcc6eac8038642f75fe27e3a3472c369ae929d9fbc"
 metafile = true
 
 [[files]]
@@ -2057,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "835e5f099d854de7b9151399cea9b752b71160aff06b60b452b77d06f63e6d21"
+hash = "c4355f189bf1fdd7f06ad6385f79af429d4cfab854943f0feecf754bea5112a8"
 metafile = true
 
 [[files]]
@@ -2142,12 +2147,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
 metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "5466b2266c5d07a965914b3a5557baf1d44a097e5b906fe457608105ef9901ee"
+hash = "09310a353a089bbae9a97e349331201f3f820b33551ded2851889d56bd035eff"
 metafile = true
 
 [[files]]
@@ -2508,4 +2513,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-cobblemoned.pw.toml"
+hash = "e7d021337e026e05e5d879498c47a97c7ceca3e100450ec2dc19cbdea2982e8e"
 metafile = true
