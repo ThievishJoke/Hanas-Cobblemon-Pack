@@ -5,7 +5,7 @@
   "playShinySound": true,
   "playShinySoundPlayer": false,
   "announceCrossDimensions": false,
-  "broadcastDespawns": false,
+  "broadcastDespawns": true,
   "broadcastVolatileDespawns": false,
   "broadcastSpeciesName": true,
   "broadcastPlayerSpawnedOn": false,

@@ -5,7 +5,7 @@
   "announceDropItems": true,
   "defaultDropItemMethod": "ON_ENTITY",
   "ambientPokemonCryTicks": 1080,
-  "defaultBoxCount": 30,
+  "defaultBoxCount": 50,
   "pokemonSaveIntervalSeconds": 30,
   "storageFormat": "nbt",
   "preventCompletePartyDeposit": false,
@@ -75,6 +75,6 @@
   "battlePvPMaxDistance": 32.0,
   "battleSpectateMaxDistance": 64.0,
   "maxPokedexScanningDetectionRange": 20.0,
-  "hideUnimplementedPokemonInThePokedex": false,
+  "hideUnimplementedPokemonInThePokedex": true,
   "enableDebugKeys": false
 }

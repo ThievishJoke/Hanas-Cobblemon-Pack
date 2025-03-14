@@ -2,7 +2,7 @@
 	#━━━━━━━━━━
 	#A global factor that determines if a spawn attempt for a trainer is made.
 	#Range: 0.0 ~ 1.0
-	globalSpawnChance = 0.85
+	globalSpawnChance = 0.65
 	#━━━━━━━━━━
 	#The chance for a trainer to spawn will shrink towards this value based of how many
 	#trainers are already spawned in for a player. For example if a player has 0 trainers
@@ -45,13 +45,13 @@
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	#Range: 0 ~ 2147483646
-	maxTrainersTotal = 600
+	maxTrainersTotal = 252
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a player and the strongest
 	#pokemon in the team of a trainer to spawn for that player. The spawn weight decreases with a higher
 	#level difference. Trainers with pokemon above the level cap of a player are excluded.
 	#Range: 0 ~ 100
-	maxLevelDiff = 25
+	maxLevelDiff = 10
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.
