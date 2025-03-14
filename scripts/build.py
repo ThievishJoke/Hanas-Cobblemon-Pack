@@ -40,8 +40,8 @@ def build():
 
     print("Cleaning up...")
 
-    os.system("rm -rf config/openloader/resources/*")
-    os.system("rm -rf config/openloader/data/*")
+    shutil.rmtree("config/openloader/resources/")
+    shutil.rmtree("config/openloader/data/")
 
     print("Done! :3")
         
