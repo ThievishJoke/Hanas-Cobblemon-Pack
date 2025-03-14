@@ -1885,10 +1885,6 @@ hash = "8faf2a4dc6c1debc0e242e5161deed311e9147e7b0bb9f800b6353d5cc7c15e0"
 metafile = true
 
 [[files]]
-file = "mods/hanas_blocks-1.0.0-1.21.1.jar"
-hash = "97567d93f54e7a4cb62af97ae11056985439100ccff2425cafa6f11fac2bdfa3"
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "df3559d7b38e3dd9003e5f4bdbede4a2636ad8a7a5e3adfcd021c8acb4ebafc8"
 metafile = true
