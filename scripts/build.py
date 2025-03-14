@@ -43,6 +43,8 @@ def build():
     shutil.rmtree("config/openloader/resources/")
     shutil.rmtree("config/openloader/data/")
 
+    os.system("packwiz refresh")
+
     print("Done! :3")
         
 
