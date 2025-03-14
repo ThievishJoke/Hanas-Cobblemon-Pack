@@ -8,7 +8,7 @@ pw_resource_pack_dir = Path("resourcepacks")
 openloader_resource_pack_dir = Path("config/openloader/resources")
 
 pw_data_pack_dir = Path("datapacks")
-openloader_data_pack_dir = Path("config/openloader/data")
+openloader_data_pack_dir = Path("config/openloader/packs")
 
 def copy_resource_packs():
     print("Copying resource packs...\n")
@@ -40,8 +40,8 @@ def build():
 
     print("Cleaning up...")
 
-    shutil.rmtree("config/openloader/resources/")
-    shutil.rmtree("config/openloader/data/")
+    shutil.rmtree(openloader_resource_pack_dir)
+    shutil.rmtree(openloader_data_pack_dir)
 
     os.system("packwiz refresh")
 
