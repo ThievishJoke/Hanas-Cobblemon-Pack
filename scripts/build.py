@@ -6,7 +6,7 @@ from pathlib import Path
 # we're unable to configure it.
 pw_resource_pack_dir = Path("resourcepacks")
 pw_data_pack_dir = Path("datapacks")
-openloader_pack_dir = Path("config/openloader/packs")
+openloader_pack_dir = Path("openloader_packs")
 
 def copy_resource_packs():
     print("Copying resource packs...\n")

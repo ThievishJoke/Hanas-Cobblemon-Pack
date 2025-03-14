@@ -17,6 +17,6 @@
       "absolute paths.                                                                 "
     ],
     "//default": [],
-    "value": []
+    "value": ["openloader_packs"]
   }
 }
