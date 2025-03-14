@@ -717,6 +717,10 @@ file = "config/notenoughanimations.json"
 hash = "450125bb9ca3094f06a22fbd7b43845bd29c43d9f89745ce446563d71ef4ef53"
 
 [[files]]
+file = "config/openloader/options.json"
+hash = "6c2a867d26849861aa7a5e9790290060ce2f9c9b6dd3a60a76595d763babb935"
+
+[[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "58dd90049f4fad92b2fbd7e2f95d66733a47010b31cc91aa5fc19def7c9ad161"
 
@@ -1131,10 +1135,6 @@ hash = "25a9873e5728d04005f434a19abbe4f434db429d12882729f0077dbe228c3476"
 [[files]]
 file = "config/yosbr/config/moonlight-client.json"
 hash = "4f661a3ceeff589d5489ae70ce0729b018c7d324bacf08293c614e32401bbbea"
-
-[[files]]
-file = "config/yosbr/config/openloader/options.json"
-hash = "6049133487d4698b9469af0674c88372f1108c681ca997f764b06f58cf9799d6"
 
 [[files]]
 file = "config/yosbr/config/shetiphiancore-client.toml"
