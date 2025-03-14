@@ -21,6 +21,12 @@ jobs:
       - name: Install packwiz
         uses: actionhippie/install-packwiz@v1
 
+      - name: Setup python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: "3.13"
+
+      # might just make this a python script instead of installing a whole binary
       - name: Install toml-cli
         uses: baptiste0928/cargo-install@v3
         with:
@@ -34,8 +40,8 @@ jobs:
         run: |
           echo "$(toml set pack.toml version ${{ env.SHORT_COMMIT }})" > pack.toml
 
-      - name: Refresh & build
-        run: packwiz refresh && packwiz mr export
+      - name: Build pack
+        run: python3 ./scripts/build.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4.6.1
