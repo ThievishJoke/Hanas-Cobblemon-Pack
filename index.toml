@@ -2105,6 +2105,11 @@ hash = "944f5b05f3dfca3b2424d5386246660d61194b9f8c835baac6847bfca77d6bc9"
 metafile = true
 
 [[files]]
+file = "mods/nemos-vertical-slabs.pw.toml"
+hash = "c2c2c68be9f1bbe5e77f4977d95d189350cd1728397014c293920fcc52888ac0"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
