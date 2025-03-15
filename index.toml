@@ -882,7 +882,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "610185b56440f46157865e60d6c6058bd06fda95d8b1f523e1f25f3d312cfcf8"
+hash = "3fe338c4c0526230a180aa740e39340697a645d08a7ece56d0df10e0f4388f90"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -1018,7 +1018,7 @@ hash = "ad9343b493898a9c6712e87bd746c65ba7b76c6d8a846f3b4b531e192523a03f"
 
 [[files]]
 file = "config/venture/venture_types/diamond_mining_venture.conf"
-hash = "5dc6c354b3696b4029e3070a86e5a05d96d7768a4f1c35de2cdcc60ba0ca60ea"
+hash = "4f733bd3f1e5f1a76adb864080d42189b0d77dd1c9f68aeaaa1258dbf1f09a1a"
 
 [[files]]
 file = "config/venture/venture_types/gold_mining_venture.conf"
@@ -1207,11 +1207,6 @@ hash = "75791256437c1f42a022dedab2094c317ee15c75c738021d28f848d0bdec6371"
 [[files]]
 file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
-
-[[files]]
-file = "datapacks/cobblemon-shuffled.pw.toml"
-hash = "21d8d23fae92f4fd7eac3a1aae66ddc77ce130831fa4cb9512f81530dc72c0d8"
-metafile = true
 
 [[files]]
 file = "icon.png"
