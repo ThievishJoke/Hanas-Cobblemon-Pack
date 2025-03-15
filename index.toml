@@ -1209,6 +1209,11 @@ file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
+file = "datapacks/cobblemon-shuffled.pw.toml"
+hash = "21d8d23fae92f4fd7eac3a1aae66ddc77ce130831fa4cb9512f81530dc72c0d8"
+metafile = true
+
+[[files]]
 file = "icon.png"
 hash = "bab972634e92241df4caa6e39063e1360276e54810e3ca9f32dd5a5e02f0490b"
 
@@ -1427,6 +1432,11 @@ metafile = true
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "ea13a76f078d2fc96c0b30a92a0ea80bab28d980c4d57c7e37e99bdbc9880f25"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-alatias-fakemon-pack.pw.toml"
+hash = "0ce36e19665b6544642e348581de5512000285564c5fc3c4992d2bcd26dc6271"
 metafile = true
 
 [[files]]
