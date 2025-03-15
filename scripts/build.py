@@ -9,18 +9,18 @@ pw_data_pack_dir = Path("datapacks")
 openloader_pack_dir = Path("openloader_packs")
 
 def copy_resource_packs():
-    print("Copying resource packs...\n")
+    print("Copying resource packs...")
     for file in pw_resource_pack_dir.iterdir():
-        print(f"Copying `{file.name}` to `{openloader_pack_dir}`")
+        print(f"  Copying `{file.name}` to `{openloader_pack_dir}`")
         shutil.copy(file, openloader_pack_dir / file.name)
-    print("Done copying resource packs.")
+    print("Done copying resource packs.\n")
 
 def copy_data_packs():
-    print("Copying data packs...\n")
+    print("Copying data packs...")
     for file in pw_data_pack_dir.iterdir():
-        print(f"Copying `{file.name}` to `{openloader_pack_dir}`")
+        print(f"  Copying `{file.name}` to `{openloader_pack_dir}`")
         shutil.copy(file, openloader_pack_dir / file.name)
-    print("Done copying data packs.")
+    print("Done copying data packs.\n")
 
 
 def build():
@@ -34,13 +34,13 @@ def build():
     os.system("packwiz refresh")
     os.system("packwiz mr export")
 
-    print("Cleaning up...")
+    print("Cleaning up...\n")
 
     shutil.rmtree(openloader_pack_dir)
 
     os.system("packwiz refresh")
 
-    print("Done! :3")
+    print("\nDone! :3")
         
 
 if __name__ == '__main__':
