@@ -1414,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-droploottables.pw.toml"
-hash = "a8ef24d69710c7227f08852e5fb3e621fff9aefafa9d79dcb58b952d24c5b788"
+hash = "a1b2c2918c26fc40cabebe45b807a1b34b60ba51253d03e56de461423cb250e1"
 metafile = true
 
 [[files]]
