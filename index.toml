@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-alatias-fakemon-pack.pw.toml"
-hash = "0ce36e19665b6544642e348581de5512000285564c5fc3c4992d2bcd26dc6271"
+hash = "7dbc1c3347452c28ca44866684c56f23531a925f1bf414d9c5d851b4bbee4c9f"
 metafile = true
 
 [[files]]
@@ -2204,7 +2204,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "ebb1188edad6b42b7e1489f03eccf7937925d70a0930f37b189a9e5f2a2e26cc"
+hash = "bdd7f014480beabe4eb79aa87aae769650dcd4da94ba4cf12d1c08e4e88350a3"
 metafile = true
 
 [[files]]
