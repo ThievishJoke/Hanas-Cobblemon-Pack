@@ -1428,11 +1428,6 @@ hash = "8bfd174173036e46317c87c39f71bcb30b22a3920fd9eba026a1876078200437"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-gts.pw.toml"
-hash = "e5a7057fc1b4cd44d7fb3b347ae49753932e43384aef8cc6f681daa1745e503e"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-hunt.pw.toml"
 hash = "8a9babf7e7fa41d5464021d180e95539a5fdc2806a72d73f547465c24bc9f96b"
 metafile = true
