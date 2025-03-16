@@ -283,6 +283,50 @@
           "price": 5000
         }
       ]
+    },
+    {
+      "EvolutionStones": [
+        {
+          "item": "cobblemon:fire_stone",
+          "price": 3000
+        },
+        {
+          "item": "cobblemon:water_stone",
+          "price": 3000
+        },
+        {
+          "item": "cobblemon:thunder_stone",
+          "price": 3000
+        },
+        {
+          "item": "cobblemon:leaf_stone",
+          "price": 3000
+        },
+        {
+          "item": "cobblemon:moon_stone",
+          "price": 4000
+        },
+        {
+          "item": "cobblemon:sun_stone",
+          "price": 4000
+        },
+        {
+          "item": "cobblemon:shiny_stone",
+          "price": 5000
+        },
+        {
+          "item": "cobblemon:dusk_stone",
+          "price": 5000
+        },
+        {
+          "item": "cobblemon:dawn_stone",
+          "price": 5000
+        },
+        {
+          "item": "cobblemon:ice_stone",
+          "price": 3000
+        }
+      ]
     }
   ]
 }
