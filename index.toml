@@ -2363,6 +2363,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tidal-waves.pw.toml"
+hash = "55a233f5217501a69d49ba5ab25d8a418eb4b930bdcf69d0851f85fc62a131ef"
+metafile = true
+
+[[files]]
 file = "mods/tims-ultimately-comprehensive-cobblemon-edits-of-destiny.pw.toml"
 hash = "0440981f46a704b53f512d42d18f0dc2cf7b5891a1512cc5987587233a133694"
 metafile = true
