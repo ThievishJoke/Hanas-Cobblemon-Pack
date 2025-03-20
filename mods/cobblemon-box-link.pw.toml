@@ -1,13 +1,13 @@
 name = "Cobblemon Box Link"
-filename = "cobblemonboxlink-fabric-1.21.1-1.0.3.jar"
+filename = "cobblemonboxlink-fabric-1.21.1-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/93tFY5AF/versions/76xcYnYc/cobblemonboxlink-fabric-1.21.1-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/93tFY5AF/versions/S3ROOcZt/cobblemonboxlink-fabric-1.21.1-1.0.4.jar"
 hash-format = "sha512"
-hash = "438625a61d69a2b326871130f9d7b6e24ce186e0a622a8307fa91a6616ea7fe3ff83c8b6529b61e712e077cd86faee63be40f76bdd70b5be0ec44901ea51b9e9"
+hash = "3c56415f244d7d7a860e8eca623ccae3167a35ce462a22c35a82ffb5a8b8a492167b72728d25124dd645b9c484ae590b6bc8cb32d2114caa87e3bb8397a5dea1"
 
 [update]
 [update.modrinth]
 mod-id = "93tFY5AF"
-version = "76xcYnYc"
+version = "S3ROOcZt"

@@ -1391,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-box-link.pw.toml"
-hash = "0fa0321e869cef773e4323277fcdc76559c0859a6d6530952b44f30822564a05"
+hash = "0a691139637e2fc01ba9424fafe38eebd808280d3b84401ab3c48e44d9370fe4"
 metafile = true
 
 [[files]]
@@ -1861,7 +1861,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "dd35dbec6070de3da306550490a4f975ea5be929ec5ef78c415bead5f9d00aaf"
+hash = "d3257e674d8e596b3cbc1afd5ba2f65a903399bf021f86a79d9684c20f689fd6"
 metafile = true
 
 [[files]]
@@ -2191,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "5d9e307a142b42ce53fa719c03ec1175a0a561cf6eece86c92e1d42b84592318"
+hash = "f14bf6c44de6f43b98878868434966976bf3a1da4759377309da5e8f228ee71f"
 metafile = true
 
 [[files]]
@@ -2381,7 +2381,7 @@ metafile = true
 
 [[files]]
 file = "mods/trailier-tales.pw.toml"
-hash = "1e04e441ea25f2832e33f907c55903761f637a8b26fc9d062d84750842b56aab"
+hash = "87d9879deda22625105df256a32cffef8a997f0752778ceffa0221cccfcb97b2"
 metafile = true
 
 [[files]]
