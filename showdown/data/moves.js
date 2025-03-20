@@ -9542,7 +9542,7 @@ const Moves = {
   hydropump: {
     num: 56,
     accuracy: 100,
-    basePower: 105,
+    basePower: 100,
     category: "Special",
     name: "Hydro Pump",
     pp: 5,
