@@ -1530,6 +1530,11 @@ hash = "3d3286ec1215f880790a25e1ef569bca62879acbef9e48b9b52c4b5ef2dcb012"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "84a17dd2ed18bb27a63277eed7057fa8c604c77c23c41f601574164aa8ad4c78"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "bcfc21fed54ad91380bb168ac6af973b8af23bf138b36fd104da6ac8daa02779"
 metafile = true
@@ -1592,6 +1597,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-title-screen-splash.pw.toml"
 hash = "8f2054cc032cc14ae27d8d35de8a5a4ed7fbb0802bcfb175c6983d89fd04b8e3"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "3655631f7c8505d28889696c06a1d40f71a866e87ca1d42aa147ec0ba1d2cecd"
 metafile = true
 
 [[files]]

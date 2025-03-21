@@ -1,0 +1,13 @@
+name = "Cyclops Core"
+filename = "cyclopscore-1.21.1-fabric-1.25.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/ZYABRoKS/cyclopscore-1.21.1-fabric-1.25.7.jar"
+hash-format = "sha512"
+hash = "c4431915d6da4fbd1b6a682f4ccd97ba7b0bc66393443fe9172ab17c2de3d79069a19926af1d808e23659e917dd3f0ef1289409f72af4465e61bf8e6fc95a6e9"
+
+[update]
+[update.modrinth]
+mod-id = "Z9DM0LJ4"
+version = "ZYABRoKS"
