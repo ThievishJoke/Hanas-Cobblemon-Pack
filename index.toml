@@ -302,7 +302,7 @@ hash = "b38c98e1a8bd2ddc6e15311413dd57bbcba8ef2ea94eb8407db030353cacfaa9"
 
 [[files]]
 file = "config/cobbledollars/default_shop.json"
-hash = "fd60f56bf3405d11ffefaaf125fc6afebe3cf49baf2e76c17990dd18471194e6"
+hash = "1b93332e3b15b29fb2ac8a53fa32391bf2bb1ddb9781b6c3b8b209984d239a42"
 
 [[files]]
 file = "config/cobblemon-wiki-gui/config.json"
@@ -846,15 +846,15 @@ hash = "00b90d0801ba7ea7df7742aaf733ecb7abe9a47094668af9efa6bb822c6f8b27"
 
 [[files]]
 file = "config/venture/venture_types/diamond_mining_venture.conf"
-hash = "49e15b65187f80f8562275a6a67f63748fe585d158fba011e05c71b36a10e87d"
+hash = "8b3fe971fd070aec48b926e1b352349e815862c84c54496abbff7c85939d5bfb"
 
 [[files]]
 file = "config/venture/venture_types/gold_mining_venture.conf"
-hash = "c03105c683c584a35f5ca5e6f5d9f3f1d7f0bb3e9838ce6633444f38de638b21"
+hash = "8396c1fd4c56a9fa78baeee62a6030b56ba68fa42db0ba0c52d4b59237b1c5f0"
 
 [[files]]
 file = "config/venture/venture_types/iron_mining_venture.conf"
-hash = "2937554fade33cbb78a65a0a8b661dcd9321e64b61fead0c5a9c6ccfe273e18f"
+hash = "f4e0652819a54cf6838637a5bb7830f3c8697b2b4abbc1eec2bb651ba11e7d9d"
 
 [[files]]
 file = "config/venture/venture_types/starter_venture.conf"
@@ -862,7 +862,7 @@ hash = "05d7e34bcbfd3773460215ee16681dacd5755549f02b44b804e85a6a45094ab7"
 
 [[files]]
 file = "config/venture/venture_types/village_guard_venture.conf"
-hash = "9d6452a41da62e5a0c0caa5be454743d338306b8e651033922c46ffb36130d45"
+hash = "b0047ec03069634095b31ee7f20a404aa04319ba42958082504f5f29cfc1db68"
 
 [[files]]
 file = "config/waterdripsound.json"
@@ -1143,10 +1143,6 @@ hash = "4da584d5bbaa84906557edc7e31958f5e35392d543b1a52ed8b89e772bb6dfbb"
 [[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "a498f39b73d4e4107650cff8749f05dae8edab089f455bf882d27dda0311442d"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "c6b6f626df3f54d798c3080a88168b9b413e0e3096df6b3e35199b8074008327"
 
 [[files]]
 file = "config/zcrystals/competitivebattles.json"
@@ -1530,11 +1526,6 @@ hash = "3d3286ec1215f880790a25e1ef569bca62879acbef9e48b9b52c4b5ef2dcb012"
 metafile = true
 
 [[files]]
-file = "mods/colossal-chests.pw.toml"
-hash = "84a17dd2ed18bb27a63277eed7057fa8c604c77c23c41f601574164aa8ad4c78"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "bcfc21fed54ad91380bb168ac6af973b8af23bf138b36fd104da6ac8daa02779"
 metafile = true
@@ -1597,11 +1588,6 @@ metafile = true
 [[files]]
 file = "mods/cycle-title-screen-splash.pw.toml"
 hash = "8f2054cc032cc14ae27d8d35de8a5a4ed7fbb0802bcfb175c6983d89fd04b8e3"
-metafile = true
-
-[[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "3655631f7c8505d28889696c06a1d40f71a866e87ca1d42aa147ec0ba1d2cecd"
 metafile = true
 
 [[files]]
@@ -1735,11 +1721,6 @@ hash = "f6882e78f4373847f1319f8b74a7a5e6cd4a971b14044599b4f3fb28dcaab333"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "72e1419b5d274ba00648b7a67201fdd4e8260cd46f076a9987849cdb8f1322b0"
-metafile = true
-
-[[files]]
 file = "mods/excessive-building.pw.toml"
 hash = "8915a3490f2839e884ba14a435242a53f5173fef5e1d55f1ae60a5a72d6d1564"
 metafile = true
@@ -1838,6 +1819,10 @@ metafile = true
 file = "mods/hanas-paxel-mod.pw.toml"
 hash = "3bfbcf16614327e7cbef540b106cc4ea63a8d4539ac4dfee0b2b114cd991deac"
 metafile = true
+
+[[files]]
+file = "mods/hanas_blocks-1.0.1-1.21.1.jar"
+hash = "ed799fd9f6fede47945fe1d8e53d4ce5eddc56a569d90dc56933d575a3ec5af6"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
