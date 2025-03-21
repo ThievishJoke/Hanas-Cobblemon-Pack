@@ -1751,11 +1751,6 @@ hash = "ae336f5c65e74b9b6b8cb1754d7410e0fd7881b2d9c41acce6a638d01a2194d7"
 metafile = true
 
 [[files]]
-file = "mods/factory-blocks.pw.toml"
-hash = "1397126c3377f2c6fd2092e6ec6c37edd7c709d7b4fbc84c568b129086799afd"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "65bb8ced1d1f0db51dad9d5f22d433a203b53dcbccfce7abf19b530ace9b6ded"
 metafile = true
