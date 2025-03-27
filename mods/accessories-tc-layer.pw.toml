@@ -1,13 +1,13 @@
 name = "Trinkets Compat Layer for Accessories"
-filename = "accessories_tclayer-3.10.0-beta.21+1.21.1.jar"
+filename = "accessories_tclayer-3.10.0-beta.25+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TkWgV1AW/versions/HkguJYVZ/accessories_tclayer-3.10.0-beta.21%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/TkWgV1AW/versions/7yAB0Frl/accessories_tclayer-3.10.0-beta.25%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6fe96ed1e7c08a1b9e45a77af79c38108c88390bab95827d235fb270debec7bab496b372306e4064bd4e00530f99c3a85c4fb12d0273cc08750b86a4142682e2"
+hash = "b17d060b7830c141b7ae804069c9d541272f7f2e8499e4dfd24858f4cbb3017b9cf43b897871132d1089a492e52ba9d1e30fa1c9bf656fe87b70b0944e68deef"
 
 [update]
 [update.modrinth]
 mod-id = "TkWgV1AW"
-version = "HkguJYVZ"
+version = "7yAB0Frl"

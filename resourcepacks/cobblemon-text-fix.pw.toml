@@ -1,13 +1,13 @@
 name = "Cobblemon Text Fix"
-filename = "CobblemonTextFixv2.0.1.zip"
+filename = "CobblemonTextFixv2.0.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B3cj2Fta/versions/WOI615Yc/CobblemonTextFixv2.0.1.zip"
+url = "https://cdn.modrinth.com/data/B3cj2Fta/versions/miuiicom/CobblemonTextFixv2.0.2.zip"
 hash-format = "sha512"
 hash = "de355e981f64fc12b9ab97c4b4680d57c63929fd6af1941ebafcd68043e369102b835fc51f3f6975ecb20a7854b90354690c04292e49001b8b4f4400507a7a9c"
 
 [update]
 [update.modrinth]
 mod-id = "B3cj2Fta"
-version = "WOI615Yc"
+version = "miuiicom"

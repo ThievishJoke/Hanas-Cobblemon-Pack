@@ -1,13 +1,13 @@
 name = "Cobblemon Drop Loot Tables"
-filename = "cobblemon-droploottables-1.6-fabric-1.3.0.jar"
+filename = "cobblemon-droploottables-1.6-fabric-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8EoIMfd7/versions/TE3Qmf0f/cobblemon-droploottables-1.6-fabric-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/8EoIMfd7/versions/SR9Cgh5I/cobblemon-droploottables-1.6-fabric-1.3.1.jar"
 hash-format = "sha512"
-hash = "9e79f5f6a7f0c561d6baf140bc14d782cc2e44f68f334a9ea150393b318301ad68d69b0e76ec8b4856b189963e3e43962eaeefd3ba3baadb0bca587e516104d8"
+hash = "3e97e5f47ae67cbd7d56517d050f184ec7b11039346d18e3bae45e400965bff4873ad1594ad2f429ce5606f5b89a06fd99b129065f2f7dc0cc7c96cc30883c99"
 
 [update]
 [update.modrinth]
 mod-id = "8EoIMfd7"
-version = "TE3Qmf0f"
+version = "SR9Cgh5I"

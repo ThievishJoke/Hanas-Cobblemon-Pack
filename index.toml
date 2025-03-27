@@ -1167,12 +1167,12 @@ hash = "2de74bf6481dab267bf9e8e233c9aca2fd9bb1e6483d2b35e34279cac42daa28"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "62b094dba83d0c9b6fe84939a18b6506b147280a633227db6127c6a26d4e9b55"
+hash = "09d64a62e8e7d01e2fa9922ad01e41eeac28e7288962a7855b62db4e89c3928a"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "d15952d56c096abbd8c1eb6ca16852cb99d1bf34afac6f5ebfbbb7bf987d31f6"
+hash = "e13be2af4140fbe0beba3661a5d3d8233d11a939858d182dccf64fb0d883eb0f"
 metafile = true
 
 [[files]]
@@ -1361,6 +1361,11 @@ hash = "0c659c38b1800af1da1833c4eecde5d974b697088feb7e12222a02d6a1f76756"
 metafile = true
 
 [[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "24a013dd77611093379948bc6a3f7b1fa048549ce5085142f219869fcdae0bc0"
+metafile = true
+
+[[files]]
 file = "mods/cobbledollars.pw.toml"
 hash = "cf04531585f1b042fbce50cbd143ce3cc136e8a45ddbc7bbd2170889de4003d8"
 metafile = true
@@ -1368,6 +1373,11 @@ metafile = true
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "d49611b8e82807e7b1edfdfbad188a8eaf69cb021a15225000fe7dbaeeb0c5d7"
+metafile = true
+
+[[files]]
+file = "mods/cobbleloots.pw.toml"
+hash = "7bf74dea3999956e49834459f5ca7490466cd8d9ea180cec040713c8e015f24b"
 metafile = true
 
 [[files]]
@@ -1407,7 +1417,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-droploottables.pw.toml"
-hash = "a1b2c2918c26fc40cabebe45b807a1b34b60ba51253d03e56de461423cb250e1"
+hash = "12713696985a4b4d9c89fba857e407515813a1233e67e415caf3c91b8adcc0bf"
 metafile = true
 
 [[files]]
@@ -1442,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-paleontology.pw.toml"
-hash = "5cbaadd2f57ba1f41804970300171897c4b3dcf6b7480177e2faa075fdda0420"
+hash = "f18721bf3b5fa2b292aafe123bb53fe6dc17850b1729e9b64e7baed3fbab7a2e"
 metafile = true
 
 [[files]]
@@ -1512,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "ff3698720247918128e2eeed43064beab7764c3d759868096bc84a549ce8bef1"
+hash = "0cf7c559922205509885d28e9299aa486c7bd9afb384f1a8d77716ba5832d95c"
 metafile = true
 
 [[files]]
@@ -1816,10 +1826,6 @@ hash = "3bfbcf16614327e7cbef540b106cc4ea63a8d4539ac4dfee0b2b114cd991deac"
 metafile = true
 
 [[files]]
-file = "mods/hanas_blocks-1.0.1-1.21.1.jar"
-hash = "ed799fd9f6fede47945fe1d8e53d4ce5eddc56a569d90dc56933d575a3ec5af6"
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "61e7505d7ae89813042c8792e2d401609b20dc440ad2de77bee1124c7996dc40"
 metafile = true
@@ -2066,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "f6537000586cf143ea2b16f9a674b65b2b15e5e88dde09d2a42fc44bcb3e3d4f"
+hash = "1547ce5fa1172bec22e28cbbd78b68f8604cabe42024bed84ca15d08a3c1872c"
 metafile = true
 
 [[files]]
@@ -2186,7 +2192,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "3fb7c1199845c2ee76e5ee0e99ed782f8ecbdc7e3b13001ab9ff949cb14fdd4f"
+hash = "d46501d719a664628847ec3b1e6213a3e89fae4737dbb8d10956531dd015ee6b"
 metafile = true
 
 [[files]]
@@ -2232,6 +2238,11 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "88a9985d7c3ff1fbb4975e1ea43789d5be58143d34ed200f8b6a09634c736912"
+metafile = true
+
+[[files]]
+file = "mods/sirdoof.pw.toml"
+hash = "3e62901f53054ab100a5cefd3dd9043aa2aaa54088a57bad81c97931c4c7d333"
 metafile = true
 
 [[files]]
@@ -2361,7 +2372,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "ae6f152f6d583993fa712e08ddf30ff9f67fadf5438fe6094ae84495ee5e575c"
+hash = "365f3fa30b0378b030f6adf226649d443a986ff97494efa4c6a00e511bc05c4e"
 metafile = true
 
 [[files]]
@@ -2416,7 +2427,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "c5f966615a1ed6fcd3cc4cdc76eaa133819ffd202badbfead52b9d3f884827ff"
+hash = "ab148de1834a9a6941323388408400dc159b1b62e8deddd0714da4c702a3beef"
 metafile = true
 
 [[files]]
@@ -4307,7 +4318,7 @@ hash = "2f9f95b701da6dd6ce22555b54d0072378a9f9a0df6609c7c9671a2edff7fec9"
 
 [[files]]
 file = "showdown/data/moves.js"
-hash = "34bec83941490d6b5bd74beec3ff599a6b5e14bece14401955c5bc125865637a"
+hash = "a968632de6f8d4678c06b142b873f2a4fb9fb7ec405952ebf7b9f496ad029812"
 
 [[files]]
 file = "showdown/data/moves.js.map"

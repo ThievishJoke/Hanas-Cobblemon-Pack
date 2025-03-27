@@ -5640,8 +5640,8 @@ const Moves = {
   },
   fireblast: {
     num: 126,
-    accuracy: 85,
-    basePower: 110,
+    accuracy: 95,
+    basePower: 105,
     category: "Special",
     name: "Fire Blast",
     pp: 5,
@@ -9541,8 +9541,8 @@ const Moves = {
   },
   hydropump: {
     num: 56,
-    accuracy: 100,
-    basePower: 100,
+    accuracy: 95,
+    basePower: 105,
     category: "Special",
     name: "Hydro Pump",
     pp: 5,
@@ -20553,8 +20553,8 @@ const Moves = {
   },
   thunder: {
     num: 87,
-    accuracy: 70,
-    basePower: 110,
+    accuracy: 95,
+    basePower: 105,
     category: "Special",
     name: "Thunder",
     pp: 10,
