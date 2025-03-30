@@ -1,0 +1,13 @@
+name = "Appliances"
+filename = "appliances-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8iT7tbc/versions/I0c3avC4/appliances-1.0.0.jar"
+hash-format = "sha512"
+hash = ""
+
+[update]
+[update.modrinth]
+mod-id = "p8iT7tbc"
+version = "I0c3avC4"
