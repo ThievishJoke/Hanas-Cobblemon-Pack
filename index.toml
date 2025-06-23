@@ -1297,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+hash = "9c9bc90ce6f161da6407095f68653fa5242d44e91dd5721d726855d242aa0ad9"
 metafile = true
 
 [[files]]
@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-alatias-fakemon-pack.pw.toml"
-hash = "92abadc53159586c626218471ef7576ba4a0c472a41e763392fbe5fcad58d67f"
+hash = "9da045822d21d567f5ac7acf81395c5683647d971b87340f5d8444f86b90475f"
 metafile = true
 
 [[files]]
