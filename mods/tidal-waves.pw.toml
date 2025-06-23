@@ -1,13 +1,13 @@
 name = "Tidal"
-filename = "tidal-0.0.1-alpha.jar"
+filename = "tidal-0.0.2-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QsiPPta0/versions/uN4AKtrF/tidal-0.0.1-alpha.jar"
+url = "https://cdn.modrinth.com/data/QsiPPta0/versions/Rh86Cb7C/tidal-0.0.2-beta.jar"
 hash-format = "sha512"
-hash = "068960a824ee8416e0f539bec3705fb49cf98b38a9bf4df37d3da2b9b2eb9ade685817ee9678bb6bf1f035ff81e550bcdd6118778fb39f3eb0f8ffb085886eb8"
+hash = "11761786384e94f0ccc13f32dade9cb43dc3c045db7a876c4b038f88cb0f5846024b88df0f7b314cb7322417b88899d3a45e49b00178e294a6072698fa119d14"
 
 [update]
 [update.modrinth]
 mod-id = "QsiPPta0"
-version = "uN4AKtrF"
+version = "Rh86Cb7C"

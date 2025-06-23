@@ -1,13 +1,13 @@
 name = "Hanas Cards"
-filename = "hanas_cardgame-1.3.1-1.21.1.jar"
+filename = "hanas_cardgame-1.3.2-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZNLNdYWj/versions/JCWgCVa3/hanas_cardgame-1.3.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ZNLNdYWj/versions/qmYC0AAO/hanas_cardgame-1.3.2-1.21.1.jar"
 hash-format = "sha512"
-hash = "1d4b467fbbbc75190d571499a2f7625e6f23e8425b080e8c6a7ebe82d8d32647dd547d6c33e1c9ea5856d6657757a266f34bda5d30eb08af6ef14724c6165b37"
+hash = "617d8cb4a26b63bd37b353ef4aea222f160e27914fec79c2b7f66ab08d2da7a087269fa712ede348b56e6dc8ae86178e4fe34af52785f6cc58a4cbdf450404ef"
 
 [update]
 [update.modrinth]
 mod-id = "ZNLNdYWj"
-version = "JCWgCVa3"
+version = "qmYC0AAO"

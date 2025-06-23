@@ -1,13 +1,13 @@
 name = "Knowlogy Book"
-filename = "knowlogy-fabric-0.7.1-1.21.1.jar"
+filename = "knowlogy-fabric-0.8.1-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V4OTaHaq/versions/v1gchzmq/knowlogy-fabric-0.7.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/V4OTaHaq/versions/iI7iVA6Z/knowlogy-fabric-0.8.1-1.21.1.jar"
 hash-format = "sha512"
-hash = "b05d0cc49ea80eceebc7e639b4548b8701d866bcf97a4d1d390c5e644505356a643b35e57b447701ea8b52e3af3533012543b1e04e9c50bb95a2e51d08aed520"
+hash = "1de3e2559094768eb483d12d2b1bd1b4528c79750920a25f18b80b3a78cfac9b0ff22a9b87962299ae6bad27b0facf34ff880e9ab07ac6174b285e6bc07f1a74"
 
 [update]
 [update.modrinth]
 mod-id = "V4OTaHaq"
-version = "v1gchzmq"
+version = "iI7iVA6Z"

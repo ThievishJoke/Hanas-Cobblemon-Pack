@@ -1,13 +1,13 @@
 name = "Cobblemon Tools"
-filename = "CobblemonTools-1.1.0+1.21.1.jar"
+filename = "CobblemonTools-1.2.0+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/WrixRmYK/versions/mJjFa5CU/CobblemonTools-1.1.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WrixRmYK/versions/fudZCZ9k/CobblemonTools-1.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "2c38e80e67adc280657c88e7fa8e94f11d6c2db07e342a5b0c150b9e6cbb1e67e278eacc114f2d6421e190b1c2be49163421d6f0f9f322b767cfb6b6c1acff85"
+hash = "a99001dfb549ba58669d43bf1850a5be751b7f32bca756bf42032dde513b2ad22562f294733eb05ff5ad9046d81ca48d4c4fdce4bac3156ba6e036a5ae34cca3"
 
 [update]
 [update.modrinth]
 mod-id = "WrixRmYK"
-version = "mJjFa5CU"
+version = "fudZCZ9k"

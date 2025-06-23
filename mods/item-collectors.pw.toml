@@ -1,0 +1,13 @@
+name = "Item Collectors"
+filename = "itemcollectors-1.1.10-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/5mQbcYf1/itemcollectors-1.1.10-fabric-mc1.21.jar"
+hash-format = "sha512"
+hash = "9d5c4570e9bdb0674b1b3096c6530fc32442eb8289dadfad75b5aeb47ed3d48c722a29aae51ceb251b1133642fe330ca0be4160426bf9e5757f67372afa7169d"
+
+[update]
+[update.modrinth]
+mod-id = "y9vDr4Th"
+version = "5mQbcYf1"

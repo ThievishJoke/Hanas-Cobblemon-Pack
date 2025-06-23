@@ -1,13 +1,13 @@
 name = "Cobblemon Alatia's Fakemon Pack"
-filename = "Cobblemon AFP 1.8.3-1.21.1-Fabric.jar"
+filename = "Cobblemon AFP 1.8.3-1.21.1-Fabric-GEB.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nHMcH3tj/versions/Ie6KmawZ/Cobblemon%20AFP%201.8.3-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/nHMcH3tj/versions/why59SCs/Cobblemon%20AFP%201.8.3-1.21.1-Fabric-GEB.jar"
 hash-format = "sha512"
-hash = "69a1271b10e199495d28d511dee4f71fcfab353ee79d05c5fb46f3dda6ed8b5b6550b96b65b88ed14800bc3a00222fb52b39227b6b2e9c9f79cf10d195fcc347"
+hash = "4e17eb38042f31681b75930c5247f68f75c772cc6873c5d20c0cc02c92a386049aaedc3b81b1871ade7dc74ad164dd2a75cbdbb249f0f3014b778c222d801418"
 
 [update]
 [update.modrinth]
 mod-id = "nHMcH3tj"
-version = "Ie6KmawZ"
+version = "why59SCs"

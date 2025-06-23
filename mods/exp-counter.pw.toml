@@ -1,13 +1,13 @@
 name = "EXP Counter"
-filename = "expcounter-1.21.1-fabric-2.jar"
+filename = "expcounter-1.21.1-fabric-2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/VkIumM4n/expcounter-1.21.1-fabric-2.jar"
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/xWb70tl7/expcounter-1.21.1-fabric-2.1.jar"
 hash-format = "sha512"
-hash = "a6884c1b05b524602232319f8e0cf1339edf7808a798817fb81eb8fb8fc7b35e5b837f96b02e114f2db54c6cd31a5cfa2814eb475c7789d21d884f821ce268cc"
+hash = "c598abd09a95fd095589c2b4101fec5b271c58ae0a705ec9681b8f8634433bfb65645d9677465d7fd031310ab34683d3fc60f3ee16e2fdbf9b18551565d0db29"
 
 [update]
 [update.modrinth]
 mod-id = "lPSTdJm7"
-version = "VkIumM4n"
+version = "xWb70tl7"

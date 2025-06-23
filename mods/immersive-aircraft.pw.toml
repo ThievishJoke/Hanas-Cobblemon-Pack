@@ -1,13 +1,13 @@
 name = "Immersive Aircraft"
-filename = "immersive_aircraft-1.2.2+1.21.1-fabric.jar"
+filename = "immersive_aircraft-1.2.4+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/Z3B4KyHO/immersive_aircraft-1.2.2%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/JC1GraWr/immersive_aircraft-1.2.4%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "a7bc12bdddaa9dfd02c1f0e80772509627c93f3775bd7e8afccf34a950cdf802e1227c25d9c9f83240800b86eb0f7768dfd3cb065fc3a44d204f21ef82b81613"
+hash = "4d893249ede5508f53021ec66eced161cc99be287a47083580613f1343e02e0bf53ecf2fa176df00da7fcbcff1a76a815a48a23f7a5be6e950f538e6e0977896"
 
 [update]
 [update.modrinth]
 mod-id = "x3HZvrj6"
-version = "Z3B4KyHO"
+version = "JC1GraWr"

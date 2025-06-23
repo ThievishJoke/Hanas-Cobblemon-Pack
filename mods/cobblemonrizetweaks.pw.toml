@@ -1,13 +1,13 @@
 name = "Cobblemon RIze Tweaks"
-filename = "cobblemonRIzetweaks-1.1.3.jar"
+filename = "cobblemonRIzetweaks-1.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ON4VDdCA/versions/uetsUANw/cobblemonRIzetweaks-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/ON4VDdCA/versions/oIOmDNZW/cobblemonRIzetweaks-1.1.4.jar"
 hash-format = "sha512"
-hash = "ecdac839a02a304c89aa769cdcfe10d91f3d9e29691e9b113576e1ced4e3ac5fce93921802f20757acacd00e4dc535a73620793a165a09bb7c2521d17e266eb1"
+hash = "2055f82d381c935977398b83a4fda7c39b691adb0620a4a5f466dda111165bd012f05f0c4dced35f4385abc400620bae6a18e149d2f86bcf27936af414d09251"
 
 [update]
 [update.modrinth]
 mod-id = "ON4VDdCA"
-version = "uetsUANw"
+version = "oIOmDNZW"

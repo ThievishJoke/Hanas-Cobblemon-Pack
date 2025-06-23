@@ -1,0 +1,13 @@
+name = "Vivillon Pride Patterns [Cobblemon]"
+filename = "Vivillon Pride Patterns v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2PwY98im/versions/bqpDxE3E/Vivillon%20Pride%20Patterns%20v1.0.zip"
+hash-format = "sha512"
+hash = "4520931f877a79e68e8faa447309df60207b777e44fb985fcc8547a93e9f015b4fdcf2839f4f0d8a85e880cda38ce46b1194275f7523cdfb01027e8bfde3a77a"
+
+[update]
+[update.modrinth]
+mod-id = "2PwY98im"
+version = "bqpDxE3E"

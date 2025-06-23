@@ -1,13 +1,13 @@
 name = "Longer Chat History"
-filename = "LongerChatHistory-fabric-1.6.jar"
+filename = "LongerChatHistory-fabric-1.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/f4P7fNKN/versions/LOLyPaBQ/LongerChatHistory-fabric-1.6.jar"
+url = "https://cdn.modrinth.com/data/f4P7fNKN/versions/8ZILQQ32/LongerChatHistory-fabric-1.7.jar"
 hash-format = "sha512"
-hash = "49e5ee2e042e9e9997bb5a10eae8ee0130e10cb94ad6a01a7fa61fb70efdc8d9c3d5d2a59b5c64e0e7642d95921f25c7197de66c011da9994cd1c6fb631a7850"
+hash = "492a69a87da0a838dc00ffcf4f67899e89a35cb3e919e136ea7f06335d5597ab72e67c58d3b53a064d5f29c86ce4169acc1e566b6fd64ec4b1402984d20d07b4"
 
 [update]
 [update.modrinth]
 mod-id = "f4P7fNKN"
-version = "LOLyPaBQ"
+version = "8ZILQQ32"

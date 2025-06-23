@@ -1,13 +1,13 @@
 name = "Cobblemon: Parting Gifts"
-filename = "releaserewards-fabric-2.1.0.jar"
+filename = "releaserewards-fabric-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Qx6M2WkT/versions/WvMsLag0/releaserewards-fabric-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Qx6M2WkT/versions/HPNdol6b/releaserewards-fabric-2.2.0.jar"
 hash-format = "sha512"
-hash = "a79db3ac6c019a5046d49c25738af3b99f93ae87da07c2e927199c88144b7b22514237e09566b2925722291102b4fbf846675e81f3219e9f42c3a6d8dbe9a06f"
+hash = "4987052ba48fb532b8fd9310341d7355800561d9f820f71860f2a03db5fe6a423547563fc99538ab66fae1f4ebc833f981cde3343c67a2cb58fe2f7290e205aa"
 
 [update]
 [update.modrinth]
 mod-id = "Qx6M2WkT"
-version = "WvMsLag0"
+version = "HPNdol6b"

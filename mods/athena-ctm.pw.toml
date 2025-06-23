@@ -1,13 +1,13 @@
 name = "Athena"
-filename = "athena-fabric-1.21-4.0.1.jar"
-side = "both"                             # because Chipped needs it, even on the server
+filename = "athena-fabric-1.21-4.0.2.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7G1e11iK/athena-fabric-1.21-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7PcGW9Vp/athena-fabric-1.21-4.0.2.jar"
 hash-format = "sha512"
-hash = "eae671bef85a7dbbe7bf466b444ffb574596b61972b78d1c89338c59283a3801eac622fa66bc2757f7f8a9db01cd508e42ce2c3feb85346c6502f521612a5320"
+hash = "4e2c7d1c8601be50229c94ded45b700adeef2f89ac5e713792603f678228c9fd4595301a857b09a2a8737298701b553555d9ef80ee139a2a774f0516c572afdc"
 
 [update]
 [update.modrinth]
 mod-id = "b1ZV3DIJ"
-version = "7G1e11iK"
+version = "7PcGW9Vp"
