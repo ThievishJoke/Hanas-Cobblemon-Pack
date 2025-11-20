@@ -1,13 +1,13 @@
 name = "Enchantment Descriptions"
-filename = "enchdesc-fabric-1.21.1-21.1.7.jar"
+filename = "enchdesc-fabric-1.21.1-21.1.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/Oqol487e/enchdesc-fabric-1.21.1-21.1.7.jar"
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/DqX0eegg/enchdesc-fabric-1.21.1-21.1.9.jar"
 hash-format = "sha512"
-hash = "716a6549838d3958eab2d091f7cf5e7f7d2cfbb248f53989e201a3696b940cce050786aea6749e967a9a55e18f0be89ea566d77245f71f84c3bce38368cbb88f"
+hash = "608a48e73606c1c20c448e53d816f604d0909a692784bb150b5a95f165bfc42cec1c8d07678a2d9f2fb239249b1465115c447a53c78f0b878d85e6de8e29d97d"
 
 [update]
 [update.modrinth]
 mod-id = "UVtY3ZAC"
-version = "Oqol487e"
+version = "DqX0eegg"

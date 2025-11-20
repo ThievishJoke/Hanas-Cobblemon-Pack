@@ -1,13 +1,13 @@
 name = "EXP Counter"
-filename = "expcounter-1.21.1-fabric-2.1.jar"
+filename = "expcounter-1.21.1-fabric-2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/xWb70tl7/expcounter-1.21.1-fabric-2.1.jar"
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/WdGCtron/expcounter-1.21.1-fabric-2.2.jar"
 hash-format = "sha512"
-hash = "c598abd09a95fd095589c2b4101fec5b271c58ae0a705ec9681b8f8634433bfb65645d9677465d7fd031310ab34683d3fc60f3ee16e2fdbf9b18551565d0db29"
+hash = "bb08a78b3f7be4e163a83d8522d79ef12c586be7f9020bc8f9860ed34e7fc413f1a67285377d33118ca7aeaad33684e3207942bd801b835e91111f79e25da8c6"
 
 [update]
 [update.modrinth]
 mod-id = "lPSTdJm7"
-version = "xWb70tl7"
+version = "WdGCtron"

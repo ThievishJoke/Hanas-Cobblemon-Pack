@@ -1,13 +1,13 @@
 name = "EnderChests"
-filename = "enderchests-fabric-1.21.1-0.1.jar"
+filename = "enderchests-fabric-1.21.1-1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gxSiDoVF/versions/O4ygh1Ia/enderchests-fabric-1.21.1-0.1.jar"
+url = "https://cdn.modrinth.com/data/gxSiDoVF/versions/NjzPNZyR/enderchests-fabric-1.21.1-1.0.jar"
 hash-format = "sha512"
-hash = "50798f7b11dd602e3a6410cc7fc6a196aa51c6ddad19ff5eed6cf8a2f987a1ccf439a23073ccd2b5dd484412d1a20ecfba3a10bfbca52f887bd4aaa46ec6369a"
+hash = "d33fe2a031df42624d8f24ece0fcef20c606904b967c586994e2795d861bbd38748457b2680707bdd9b4a1a4b5c064ad98c2185ab196d1685e8d4819089b1ee1"
 
 [update]
 [update.modrinth]
 mod-id = "gxSiDoVF"
-version = "O4ygh1Ia"
+version = "NjzPNZyR"

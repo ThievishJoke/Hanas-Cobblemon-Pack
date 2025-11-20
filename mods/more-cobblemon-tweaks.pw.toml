@@ -1,13 +1,13 @@
 name = "MoreCobblemonTweaks"
-filename = "MoreCobblemonTweaks-fabric-1.0.3.jar"
+filename = "MoreCobblemonTweaks-fabric-1.1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/6YnYg20B/MoreCobblemonTweaks-fabric-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/YDyiC5Zg/MoreCobblemonTweaks-fabric-1.1.5.jar"
 hash-format = "sha512"
-hash = "73cf74292513b8372f7805c74398d9d92ddb09213ce1846505a68eb206137cf16bcdd339a4699149c97de0ed76d2d31d5909c8dd78b5e1bb22f9b7fe452f9fc2"
+hash = "a931e9dff10aac1fcc38cb4750f878a98bb9c885baddf93d890f84d47416f057e19e974c0cb5419c1b2c2f4a4edfb7a4818b4e8dfdac5708f02d71cbb8e7fa0b"
 
 [update]
 [update.modrinth]
 mod-id = "5KWlJ2HC"
-version = "6YnYg20B"
+version = "YDyiC5Zg"

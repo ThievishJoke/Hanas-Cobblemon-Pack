@@ -1,0 +1,13 @@
+name = "Cobblemon Shuffled"
+filename = "Cobblemon Shuffled 1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r9rjH41G/versions/NxXFx5FX/Cobblemon%20Shuffled%201.0.1.zip"
+hash-format = "sha512"
+hash = "ee9b63ea4023fc5d360243d579a0b020e4ab4204b93865c692e122a04ba10dbcf757fd6b0b88aca4a10d7c7d9b28c0ca5e9d134abb42bba46c86705b1e46f43e"
+
+[update]
+[update.modrinth]
+mod-id = "r9rjH41G"
+version = "NxXFx5FX"

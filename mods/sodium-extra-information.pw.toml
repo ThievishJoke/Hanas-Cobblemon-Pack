@@ -1,13 +1,13 @@
 name = "Sodium Extra Information"
-filename = "SodiumExtraInformation-fabric-2.5.jar"
+filename = "SodiumExtraInformation-fabric-2.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/696WgnvT/versions/BJKNGOHs/SodiumExtraInformation-fabric-2.5.jar"
+url = "https://cdn.modrinth.com/data/696WgnvT/versions/iY5Y8tf0/SodiumExtraInformation-fabric-2.5.1.jar"
 hash-format = "sha512"
-hash = "896b870f3ca63d1250c731e553740c780a898cdbbe6ad578e572eba52e539ee017a0c1a53b62ccac70c47c632f031cc903277605afc915e00f75012b811f5896"
+hash = "3f3234e014815fad0094fc4dc7f9a6000bd01a4dbc305214fcd14d8007a626171cf0a496e0fc46e8d08447e6e943381dcd197edf7e6c5fab8a6966f165273fd2"
 
 [update]
 [update.modrinth]
 mod-id = "696WgnvT"
-version = "BJKNGOHs"
+version = "iY5Y8tf0"

@@ -1,13 +1,13 @@
 name = "Cobblemon Capture XP"
-filename = "cobblemon-capturexp-1.6-fabric-1.1.0.jar"
+filename = "capturexp-fabric-1.6.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LBl4Qguc/versions/gSyyapnZ/cobblemon-capturexp-1.6-fabric-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/LBl4Qguc/versions/mIDy2E9x/capturexp-fabric-1.6.1-1.2.0.jar"
 hash-format = "sha512"
-hash = "e70240f5e05a4bbbb82f314e5bac48d63d36003443fe4e62e4d8ecc940f699f361a2d4af66dab1aafc80fc2b4a5ebf520591a2bdf22dfcfe6fe3d47e70447ab3"
+hash = "3640b97f5e10bb6ca89dc877d6f0ee71bba54eaa0af6a5c9d83215068a8a9ca59489a429b4c623877e5c0246cf2ddf17082e7c36b068cf051806b2bfaf027196"
 
 [update]
 [update.modrinth]
 mod-id = "LBl4Qguc"
-version = "gSyyapnZ"
+version = "mIDy2E9x"

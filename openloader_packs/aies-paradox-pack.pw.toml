@@ -1,0 +1,13 @@
+name = "Aie's Paradox Pack (Cobblemon)"
+filename = "Aies Paradox Pack 7.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WlA00rDp/versions/IzfDRJCO/Aies%20Paradox%20Pack%207.4.zip"
+hash-format = "sha512"
+hash = "16234526f6b4ca3595bf203498966450af1eff028a87f193e7ca19d9b17b4a3186a17e2de3d30710a0058505b83421785ba09c3808adb2b1db74f205bfafa7c2"
+
+[update]
+[update.modrinth]
+mod-id = "WlA00rDp"
+version = "IzfDRJCO"

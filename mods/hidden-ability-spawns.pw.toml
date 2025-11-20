@@ -1,13 +1,13 @@
 name = "Hidden Ability Spawns"
-filename = "HiddenAbilitySpawns-1.0.3+1.21.1.jar"
+filename = "HiddenAbilitySpawns-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tdWK1rZh/versions/dv2TSism/HiddenAbilitySpawns-1.0.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tdWK1rZh/versions/nfTC4v35/HiddenAbilitySpawns-1.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "99fb919f57c5f348929b7733b6515c6f07c8ff0bed501fe3ff022ce294e030865a586254314fdcd2721d293f6387b31f8b97379f7e827a7dc297530ecfa79977"
+hash = "3af8e8afc4f10404e99be6c15faead716edaaa548c0da974e27db39c67a5ed264f6d3b065614a677205ee935b8d58b1d527a4746e62ab4e09cfc90b3c85dba7c"
 
 [update]
 [update.modrinth]
 mod-id = "tdWK1rZh"
-version = "dv2TSism"
+version = "nfTC4v35"

@@ -1,13 +1,13 @@
 name = "Cobblemon Alpha Project"
-filename = "CobblemonAlphasFabric-1.1+1.6.1.jar"
+filename = "cobblemonalphasFabric-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/wQ8RzX4a/CobblemonAlphasFabric-1.1%2B1.6.1.jar"
+url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/LWxCKvTV/cobblemonalphasFabric-1.2.jar"
 hash-format = "sha512"
-hash = "4001d222814a68cad0a2273e7b0b21eff40e57eba762f3da67790a0078ae7badadde62d9f461010b293d51794e13d50b99e9f1dcce9faf2da2440a83e8a2d6a5"
+hash = "cacde71b0d7012433ff0ea0a7c8e008de25336261caf40deb3652ac28e3d604915a2cde64f853072a43bb62679c0a705fdc2dba6a9d9ead7c231b26a248d7a64"
 
 [update]
 [update.modrinth]
 mod-id = "QnWyhFGf"
-version = "wQ8RzX4a"
+version = "LWxCKvTV"
