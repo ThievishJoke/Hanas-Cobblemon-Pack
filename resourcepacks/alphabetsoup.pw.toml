@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/IJRcfnAh/versions/WefpyKxa/AlphabetSoup-v3.0.zip"
 hash-format = "sha512"
-hash = "3d8f33c9538321d75c9e03a7d972d7ed182bda3fb4d314cf18abcf98e81223b6890f30beeb577efef3a3e45d619076f31b323fa0164430e53f0b045fdd2f85f2"
+hash = "b42f5684d5fdadcf5bbf585a78ee14818bff32da32eec8d912c706133071f0555735a4686196b600266ec58e2d1ee0357d78b622dbe789feef0ea26f7c5f7cbc"
 
 [update]
 [update.modrinth]

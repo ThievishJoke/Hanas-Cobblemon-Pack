@@ -5,7 +5,7 @@ import sys
 
 
 if len(sys.argv) != 2:
-    print("Usage: python add_cobblemon_addon.py <target_project>")
+    print("Usage: python scripts/add_cobblemon_addon.py <target_project>")
     sys.exit(1)
 target_project = sys.argv[1]
 

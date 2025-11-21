@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/6VWXftgW/versions/4pjG3DAI/tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-4.zip"
 hash-format = "sha512"
-hash = "50b5ea43f7f6952a12403066cd0dbde2ab0304115f6589cbbc9c277a6224d6d1de2e9b465ec27c1d119e098df8aa13da83d51c836b87df987b31ecceeb92107e"
+hash = "84117f5650d744045a6d5c55d27ae41219e220c1c9e478503ba9c8ca7cc94a77c40b8be72eb5e0aabee573ff02d0b8fd8bbbef71397d026e69619f34763ecbb1"
 
 [update]
 [update.modrinth]

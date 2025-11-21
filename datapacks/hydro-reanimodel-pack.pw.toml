@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/lYp6oiT3/versions/ViGFwZVX/Hydro%20Reanimodel%20Pack%200.1.7%20Beta-2.zip"
 hash-format = "sha512"
-hash = "f0893b63a869bc3757714959077f59a7612229a0d543f47359ba9f87d32071a9ba24c27ffbef51dfae55ec353eb98c4e231ef5ec35963185e005dcf4ce6453d0"
+hash = "f697eefb9b1808e2a6c9f4e8d63940c621f9bb4fe3016e6c9fda8382abb4e5b1f8c75453c530009c590418a7e61da22dd9c016abfb7e7f354987ecee0447b5ad"
 
 [update]
 [update.modrinth]

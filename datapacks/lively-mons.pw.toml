@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/KLxbNxCP/versions/jiRJLoJD/Cobblemon%20Lively%20%27Mons%201.7.3.zip"
 hash-format = "sha512"
-hash = "30a68820e851c9aa29d895910cfc62ae6f2fba2757ba8a1d8ed5781554eca2eb41466d00b2c86560479f8b40c5d6b2ae168ad51e34b7335a0fc0d66f6d532521"
+hash = "42e129e7f2531a8b13dfe49708d6dff2894adcd7dd75635b8adefcb8b53f650f2c06a3c5ca18148c8e4ba02fa0df664c2342e9e7d95f8beed32dce4e6910f1e8"
 
 [update]
 [update.modrinth]

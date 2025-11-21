@@ -1,0 +1,13 @@
+name = "[Cobblemon] More Vivillon´s"
+filename = "More Vivillon 2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ym8k8ZT/versions/Iuy7Pp6h/More%20Vivillon%202.0.zip"
+hash-format = "sha512"
+hash = "199c457f2994e15604a14634b8f8e7b9cb7adb2c05e90aec038b0c71a1a58b1537e21452202344f02b591a471a7db7ac458d64f385302c06db45d13f70837027"
+
+[update]
+[update.modrinth]
+mod-id = "5ym8k8ZT"
+version = "Iuy7Pp6h"

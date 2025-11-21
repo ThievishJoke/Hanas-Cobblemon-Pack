@@ -1,0 +1,13 @@
+name = "Pokopia Forms [Cobblemon]"
+filename = "Pokopia_Forms.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pA3gLG2d/versions/PIDFXqcD/Pokopia_Forms.zip"
+hash-format = "sha512"
+hash = "2eb57bbb028c3efdc28827c76fb2e764ef7c864e5bb9b10ce1a68f2c5a8d536d928f2b0c1eb1627f2440560f22ed3a2300262006c3c04dc800d7c2d0a5adc40d"
+
+[update]
+[update.modrinth]
+mod-id = "pA3gLG2d"
+version = "PIDFXqcD"

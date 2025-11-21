@@ -1,6 +1,6 @@
-name = "Cobblemon: SirDoof"
+name = "Cobblemon: SirDoof [1.7]"
 filename = "Sirdoof-1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/VVE4g4rD/versions/RbsTQ6YG/Sirdoof-1.0.jar"

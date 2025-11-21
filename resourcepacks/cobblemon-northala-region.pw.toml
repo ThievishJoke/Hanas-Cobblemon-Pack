@@ -1,0 +1,13 @@
+name = "Cobblemon Northala Region"
+filename = "Northala datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vW1R4cLg/versions/8MeuvkOP/Northala%20datapack.zip"
+hash-format = "sha512"
+hash = "728001ff1abe7d40f97a8456f25389a911e0bc6192658bf9bbc90e3db6c1cea646923a5ed99cd525296d216aa1dac8bbeff7dffb0199996413344080cb35f6a4"
+
+[update]
+[update.modrinth]
+mod-id = "vW1R4cLg"
+version = "8MeuvkOP"

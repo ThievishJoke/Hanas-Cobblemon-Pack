@@ -1001,6 +1001,26 @@ file = "config/yosbr/config/zoomify.json"
 hash = "a498f39b73d4e4107650cff8749f05dae8edab089f455bf882d27dda0311442d"
 
 [[files]]
+file = "datapacks/cobblemon-northala-region.pw.toml"
+hash = "393c85040843fc6c4f06f5898a790e6f574edba2cc159641695fb66a4c77644d"
+metafile = true
+
+[[files]]
+file = "datapacks/fakeworld.pw.toml"
+hash = "0b3a2beafe90b53a3ea4aea429965fa6589dbc882d3fd1124344acf5f7ef724f"
+metafile = true
+
+[[files]]
+file = "datapacks/more-vivillon-cobblemon.pw.toml"
+hash = "0a39d7d199cf63caa0047edbf02bedff9d843c36ea4918756e7eba92ff946fff"
+metafile = true
+
+[[files]]
+file = "datapacks/pokopia-forms-cobblemon.pw.toml"
+hash = "7624387ffeabd21f5d20eaf7cf34b200481fd7efde24ed97da84fc3153cfe331"
+metafile = true
+
+[[files]]
 file = "icon.png"
 hash = "bab972634e92241df4caa6e39063e1360276e54810e3ca9f32dd5a5e02f0490b"
 
@@ -1180,11 +1200,6 @@ hash = "c8745d3d24d0cc4ae20f87e156f59531ea7a748303ef3e27c4e25ae0fb2a7607"
 metafile = true
 
 [[files]]
-file = "mods/cobblefurnies.pw.toml"
-hash = "d5c2c194225075bcd748d812aa72bee771b9287851d0064cb25636415444cbf7"
-metafile = true
-
-[[files]]
 file = "mods/cobbleloots.pw.toml"
 hash = "4dc1fb1387f9a7283109605bdd41e97115c628ac6055f62f9c9809bb41268d31"
 metafile = true
@@ -1250,6 +1265,11 @@ hash = "97f0d89c9b71e0240d74a5f7233f35875d6b43d6758f499c3ce19e337917e6c5"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "a58d17b41297ccd22fb1e6be18b60c2f556b6cfb8718ee24480066e91d6fad18"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-paleontology.pw.toml"
 hash = "91b5357026ac10a12f1c178a591419eb6b46a7414a1f73dc531db6fc3fcc1a3f"
 metafile = true
@@ -1277,6 +1297,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "6fc2893a730f9a99a9807edfcc0b0a98c19f420d5ce944aad3a478abc936aec8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "31ff08189acaf2ac2d89f57b7b0bfc4e30c0218c1fd775012e88879ba670a64c"
 metafile = true
 
 [[files]]
@@ -1397,6 +1422,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "ab43bc087d6cce257457ac229b3f3b544017b7d057cc14bc94f2e93faf17d6dc"
 metafile = true
 
 [[files]]
@@ -1640,6 +1670,11 @@ hash = "300d1499a4913929f77fad15d3cd33357cfbd7c598d4b77021a67f58bc4ad46b"
 metafile = true
 
 [[files]]
+file = "mods/kazeran-eeveelutions.pw.toml"
+hash = "8d47546ce2ffd77c4a4b92ad3bfc009742b5291eb0e9876b9cf015474a6f3e7c"
+metafile = true
+
+[[files]]
 file = "mods/keybind-fix-plus.pw.toml"
 hash = "e8e0b2676be098bc98faea8cec8d1faa46fe8edacf6f969bc7db6abc29df369b"
 metafile = true
@@ -1706,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-cobblemon-move-anims.pw.toml"
-hash = "1c0ad7e95a0bd8878451c99d2a7647572b5c220ca001dbfd5364242d070b6a25"
+hash = "f308b3671f2d7c2dc69a2a8d239208b4476579bc24fdfdb21c1e8520d4c5d44d"
 metafile = true
 
 [[files]]
@@ -1871,7 +1906,7 @@ metafile = true
 
 [[files]]
 file = "mods/sirdoof.pw.toml"
-hash = "6eccb1313979f59dbc69190d8716a2c0ef1edfedb291675db42910b89285648b"
+hash = "1ca2bb35b401f75259c9c1a2869aed1cda9bcf05c793237281af9d0f066207b0"
 metafile = true
 
 [[files]]
@@ -2057,6 +2092,26 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-northala-region.pw.toml"
+hash = "393c85040843fc6c4f06f5898a790e6f574edba2cc159641695fb66a4c77644d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fakeworld.pw.toml"
+hash = "0b3a2beafe90b53a3ea4aea429965fa6589dbc882d3fd1124344acf5f7ef724f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-vivillon-cobblemon.pw.toml"
+hash = "0a39d7d199cf63caa0047edbf02bedff9d843c36ea4918756e7eba92ff946fff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokopia-forms-cobblemon.pw.toml"
+hash = "7624387ffeabd21f5d20eaf7cf34b200481fd7efde24ed97da84fc3153cfe331"
 metafile = true
 
 [[files]]

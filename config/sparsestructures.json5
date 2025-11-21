@@ -23,22 +23,6 @@
 		"structure": "minecraft:villages",
 		"factor": 2
     },
-    {
-		"structure": "repurposed_structures:villages_mushroom",
-		"factor": 2
-    },
-    {
-		"structure": "repurposed_structures:villages_nether",
-		"factor": 2
-    },
-    {
-		"structure": "repurposed_structures:villages_overworld",
-		"factor": 2
-    },
-    {
-		"structure": "terralith:rare_village",
-		"factor": 4
-    },
 	{
 		"structure": "cobblemon:fishing_boats",
 		"factor": 0.5
@@ -85,88 +69,16 @@
 	},
 	{
 		"structure": "cobblemon:shipwreck_coves",
-		"factor": 0.80
-	},
-	{
-		"structure": "legendarysummoning:dyna_tree",
-		"factor": 0.75
+		"factor": 0.70
 	},
 	{
 		"structure": "lively:fossils/avoid_villages",
 		"factor": 1
 	},
-	{
-		"structure": "mes:astral_hideaway",
-		"factor": 1
-	},
-	{
-		"structure": "mes:astral_meteorite",
-		"factor": 1
-	},
-	{
-		"structure": "mes:ender_spire",
-		"factor": 1
-	},
-	{
-		"structure": "mes:enderbloom_grove",
-		"factor": 1
-	},
-	{
-		"structure": "mes:enderkeep_courtyard",
-		"factor": 1
-	},
-	{
-		"structure": "mes:enderpin_spikes",
-		"factor": 1
-	},
-	{
-		"structure": "mes:enderskog",
-		"factor": 1
-	},
-	{
-		"structure": "mes:enderwatch_tower",
-		"factor": 1
-	},
-	{	
-		"structure": "mes:endscraps",
-		"factor": 1
-	},
-	{
-		"structure": "mes:manuscript_shrine",
-		"factor": 1
-	},
-	{
-		"structure": "mes:monolith",
-		"factor": 1
-	},
-	{
-		"structure": "mes:mystical_archway",
-		"factor": 1
-	},
-	{
-		"structure": "mes:mythic_garden",
-		"factor": 1
-	},
-	{
-		"structure": "mes:phantom_citadel",
-		"factor": 1
-	},
-	{
-		"structure": "mes:placid_prairie",
-		"factor": 1
-	},	
-	{
-		"structure": "mes:ruined_pillar",
-		"factor": 1
-	},
-	{
-		"structure": "mes:starlight_voyager",
-		"factor": 1
-	},
-    	{
-		"structure": "minecraft:nether_complexes",
-		"factor": 0.75
-    	},
+  {
+    "structure": "minecraft:nether_complexes",
+    "factor": 0.75
+  },
 	{
 		"structure": "minecraft:end_cities",
 		"factor": 0.85

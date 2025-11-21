@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/FBxb1PCW/MissingMon_v3.5.5%20%5BTrail%20of%20Stone%20and%20Star%5D.zip"
 hash-format = "sha512"
-hash = "5435d2478533f3ece5a2a37a37069bebf657fc2d9523a24a3a0aa3faa81c34158285f895262d07c722c35c22b12d79237456c1a1c9c1ac26675d1082603060ad"
+hash = "477c296b0c7e91871951e921eef52bf82f133cd6deb987937a2f1eb59a8c8b6d1b1b2e6505bffe7c41de8dfe422bd2f8b2afaff3b11bf7984b3cbe272e896e37"
 
 [update]
 [update.modrinth]
