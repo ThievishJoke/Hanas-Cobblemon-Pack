@@ -8928,6 +8928,11 @@ hash = "e5a56a9a8c48ce2d4da1fd29902716dbf31a3cc89a924e0a4c80afec39a07091"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-cobbled-levels.pw.toml"
 hash = "9fff657862536991bfc654811449a12a559ae70eb557ecff231fbd218558596e"
 metafile = true
@@ -8950,6 +8955,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-paleontology.pw.toml"
 hash = "919b1b79486c5c681864eccf15a449e6bf60bced6bad03dc44ebbe7f5911cde5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "cffb80a78b1df4537b627efd38544f81f8eb87b252f461bbfd4285a3c4610b76"
 metafile = true
 
 [[files]]
@@ -8990,6 +9000,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "d0d21c8cd26fc4ddcdd03893e4b7ad5e1d1a4701a272f002f2932f9686770a6e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "0fe751f91731eeb3cbcc323a5c26f0a6ff6b7cb3b01139c6c298e026a49345d9"
 metafile = true
 
 [[files]]
