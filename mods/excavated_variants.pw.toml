@@ -1,0 +1,13 @@
+name = "Excavated Variants"
+filename = "excavatedvariants-4.3.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/jJOMUc04/excavatedvariants-4.3.1-fabric.jar"
+hash-format = "sha512"
+hash = "1cba3cdfff50481915b251a1a65beffe914942495b9b484b1ac0e281bb6c5cb8726172eb1bec5dc2aee53edc20f763cf55c69fc31f2d105eba36c4793ddd269e"
+
+[update]
+[update.modrinth]
+mod-id = "IZaMGxb0"
+version = "jJOMUc04"

@@ -1,13 +1,13 @@
 name = "Cobblemon"
-filename = "Cobblemon-fabric-1.6.1+1.21.1.jar"
+filename = "Cobblemon-fabric-1.7.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/s64m1opn/Cobblemon-fabric-1.7.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b7082befee07efd3e0c5857807f739082df5994ec0e7fe3217ce6cdaec7d2ca47ed51bd129096fd4eca8cbcf7de415d14602868a3357980ff88e55b3148dc7f4"
+hash = "221382ccc0aa7ae65935298802ff6272b852f485bf0d03a5ba7b51f88a15aa3110282d6c9b0d6e2993fe72515f1dfffdec236b235d411ac01eb93b7dc9e5d750"
 
 [update]
 [update.modrinth]
 mod-id = "MdwFAVRL"
-version = "v77SHSXW"
+version = "s64m1opn"

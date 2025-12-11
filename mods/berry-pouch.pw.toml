@@ -1,0 +1,13 @@
+name = "Berry Pouch [Cobblemon]"
+filename = "berrypouch-fabric-1.21.1-0.4.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y7TzXi4L/versions/kk8J7XFl/berrypouch-fabric-1.21.1-0.4.3-beta.jar"
+hash-format = "sha512"
+hash = "8b27e724428f8af5a547b86ad0b20a4c1d6697139a881fc31837361e0e6b3db981b055da353f05c7043ba0002d2ff072e2af268c6c8cbbc78ba76f0f71fcf246"
+
+[update]
+[update.modrinth]
+mod-id = "y7TzXi4L"
+version = "kk8J7XFl"

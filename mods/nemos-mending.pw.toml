@@ -1,0 +1,13 @@
+name = "Nemo's Mending"
+filename = "nemos-better-mending-1.1.1-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D9vJXeSm/versions/sS5m4ugT/nemos-better-mending-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "e2533999cdfef4dde8cf64578de15c12f87aad93b4bdf03c6ba495088874bc0e63a80683b45606997a915efb46026a795feaa71eca9c04b0e2fad3e7a1b934b8"
+
+[update]
+[update.modrinth]
+mod-id = "D9vJXeSm"
+version = "sS5m4ugT"

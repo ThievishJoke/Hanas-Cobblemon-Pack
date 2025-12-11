@@ -1,0 +1,13 @@
+name = "Defense"
+filename = "defense-1.21-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GF8BDuhv/versions/sUwoRv1g/defense-1.21-0.4.2.jar"
+hash-format = "sha512"
+hash = "de6189e3898dc5cab6d9f07348706dcdaac35fd00314c6061554da64d0b89e2fe299800f27a66c5350069dcba2eb8da790c1de888be03f320624bd6657fb496a"
+
+[update]
+[update.modrinth]
+mod-id = "GF8BDuhv"
+version = "sUwoRv1g"

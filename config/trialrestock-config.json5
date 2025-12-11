@@ -1,4 +1,4 @@
 {
-	"costIncrease": 0,
-	"restockDelay": 12000
+	"costIncrease": 1,
+	"restockDelay": 24000
 }

@@ -3,9 +3,6 @@
         "moveName": "absorb"
     },
     {
-        "moveName": "accelerock"
-    },
-    {
         "moveName": "acid"
     },
     {
@@ -22,9 +19,6 @@
     },
     {
         "moveName": "aerialace"
-    },
-    {
-        "moveName": "aeroblast"
     },
     {
         "moveName": "afteryou"
@@ -48,13 +42,7 @@
         "moveName": "amnesia"
     },
     {
-        "moveName": "anchorshot"
-    },
-    {
         "moveName": "ancientpower"
-    },
-    {
-        "moveName": "appleacid"
     },
     {
         "moveName": "aquacutter"
@@ -66,13 +54,7 @@
         "moveName": "aquaring"
     },
     {
-        "moveName": "aquastep"
-    },
-    {
         "moveName": "aquatail"
-    },
-    {
-        "moveName": "armorcannon"
     },
     {
         "moveName": "armthrust"
@@ -93,19 +75,10 @@
         "moveName": "astonish"
     },
     {
-        "moveName": "astralbarrage"
-    },
-    {
-        "moveName": "attackorder"
-    },
-    {
         "moveName": "attract"
     },
     {
         "moveName": "aurasphere"
-    },
-    {
-        "moveName": "aurawheel"
     },
     {
         "moveName": "aurorabeam"
@@ -126,34 +99,13 @@
         "moveName": "babydolleyes"
     },
     {
-        "moveName": "baddybad"
-    },
-    {
-        "moveName": "banefulbunker"
-    },
-    {
-        "moveName": "barbbarrage"
-    },
-    {
-        "moveName": "barrage"
-    },
-    {
         "moveName": "barrier"
     },
     {
         "moveName": "batonpass"
     },
     {
-        "moveName": "beakblast"
-    },
-    {
         "moveName": "beatup"
-    },
-    {
-        "moveName": "behemothbash"
-    },
-    {
-        "moveName": "behemothblade"
     },
     {
         "moveName": "belch"
@@ -174,22 +126,10 @@
         "moveName": "bite"
     },
     {
-        "moveName": "bitterblade"
-    },
-    {
-        "moveName": "bittermalice"
-    },
-    {
         "moveName": "blastburn"
     },
     {
         "moveName": "blazekick"
-    },
-    {
-        "moveName": "blazingtorque"
-    },
-    {
-        "moveName": "bleakwindstorm"
     },
     {
         "moveName": "blizzard"
@@ -198,43 +138,16 @@
         "moveName": "block"
     },
     {
-        "moveName": "bloodmoon"
-    },
-    {
-        "moveName": "blueflare"
-    },
-    {
         "moveName": "bodypress"
     },
     {
         "moveName": "bodyslam"
     },
     {
-        "moveName": "boltbeak"
-    },
-    {
-        "moveName": "boltstrike"
-    },
-    {
-        "moveName": "boneclub"
-    },
-    {
-        "moveName": "bonemerang"
-    },
-    {
-        "moveName": "bonerush"
-    },
-    {
         "moveName": "boomburst"
     },
     {
         "moveName": "bounce"
-    },
-    {
-        "moveName": "bouncybubble"
-    },
-    {
-        "moveName": "branchpoke"
     },
     {
         "moveName": "bravebird"
@@ -276,16 +189,10 @@
         "moveName": "bulletseed"
     },
     {
-        "moveName": "burningbulwark"
-    },
-    {
         "moveName": "burningjealousy"
     },
     {
         "moveName": "burnup"
-    },
-    {
-        "moveName": "buzzybuzz"
     },
     {
         "moveName": "calmmind"
@@ -295,9 +202,6 @@
     },
     {
         "moveName": "captivate"
-    },
-    {
-        "moveName": "ceaselessedge"
     },
     {
         "moveName": "celebrate"
@@ -312,31 +216,16 @@
         "moveName": "charm"
     },
     {
-        "moveName": "chatter"
-    },
-    {
         "moveName": "chillingwater"
     },
     {
-        "moveName": "chillyreception"
-    },
-    {
         "moveName": "chipaway"
-    },
-    {
-        "moveName": "chloroblast"
     },
     {
         "moveName": "circlethrow"
     },
     {
         "moveName": "clamp"
-    },
-    {
-        "moveName": "clangingscales"
-    },
-    {
-        "moveName": "clangoroussoul"
     },
     {
         "moveName": "clearsmog"
@@ -349,12 +238,6 @@
     },
     {
         "moveName": "coil"
-    },
-    {
-        "moveName": "collisioncourse"
-    },
-    {
-        "moveName": "combattorque"
     },
     {
         "moveName": "cometpunch"
@@ -375,16 +258,7 @@
         "moveName": "constrict"
     },
     {
-        "moveName": "conversion"
-    },
-    {
-        "moveName": "conversion2"
-    },
-    {
         "moveName": "copycat"
-    },
-    {
-        "moveName": "coreenforcer"
     },
     {
         "moveName": "corrosivegas"
@@ -400,9 +274,6 @@
     },
     {
         "moveName": "counter"
-    },
-    {
-        "moveName": "courtchange"
     },
     {
         "moveName": "covet"
@@ -426,9 +297,6 @@
         "moveName": "crushclaw"
     },
     {
-        "moveName": "crushgrip"
-    },
-    {
         "moveName": "curse"
     },
     {
@@ -441,16 +309,7 @@
         "moveName": "darkpulse"
     },
     {
-        "moveName": "darkvoid"
-    },
-    {
         "moveName": "dazzlinggleam"
-    },
-    {
-        "moveName": "decorate"
-    },
-    {
-        "moveName": "defendorder"
     },
     {
         "moveName": "defensecurl"
@@ -465,13 +324,7 @@
         "moveName": "detect"
     },
     {
-        "moveName": "diamondstorm"
-    },
-    {
         "moveName": "dig"
-    },
-    {
-        "moveName": "direclaw"
     },
     {
         "moveName": "disable"
@@ -489,25 +342,13 @@
         "moveName": "dizzypunch"
     },
     {
-        "moveName": "doodle"
-    },
-    {
-        "moveName": "doomdesire"
-    },
-    {
         "moveName": "doubleedge"
     },
     {
         "moveName": "doublehit"
     },
     {
-        "moveName": "doubleironbash"
-    },
-    {
         "moveName": "doublekick"
-    },
-    {
-        "moveName": "doubleshock"
     },
     {
         "moveName": "doubleslap"
@@ -517,9 +358,6 @@
     },
     {
         "moveName": "dracometeor"
-    },
-    {
-        "moveName": "dragonascent"
     },
     {
         "moveName": "dragonbreath"
@@ -532,12 +370,6 @@
     },
     {
         "moveName": "dragondance"
-    },
-    {
-        "moveName": "dragondarts"
-    },
-    {
-        "moveName": "dragonenergy"
     },
     {
         "moveName": "dragonhammer"
@@ -570,16 +402,10 @@
         "moveName": "drillrun"
     },
     {
-        "moveName": "drumbeating"
-    },
-    {
         "moveName": "dualchop"
     },
     {
         "moveName": "dualwingbeat"
-    },
-    {
-        "moveName": "dynamaxcannon"
     },
     {
         "moveName": "dynamicpunch"
@@ -597,9 +423,6 @@
         "moveName": "eerieimpulse"
     },
     {
-        "moveName": "eeriespell"
-    },
-    {
         "moveName": "eggbomb"
     },
     {
@@ -610,12 +433,6 @@
     },
     {
         "moveName": "electroball"
-    },
-    {
-        "moveName": "electrodrift"
-    },
-    {
-        "moveName": "electroshot"
     },
     {
         "moveName": "electroweb"
@@ -645,12 +462,6 @@
         "moveName": "eruption"
     },
     {
-        "moveName": "esperwing"
-    },
-    {
-        "moveName": "eternabeam"
-    },
-    {
         "moveName": "expandingforce"
     },
     {
@@ -666,9 +477,6 @@
         "moveName": "facade"
     },
     {
-        "moveName": "fairylock"
-    },
-    {
         "moveName": "fairywind"
     },
     {
@@ -676,9 +484,6 @@
     },
     {
         "moveName": "faketears"
-    },
-    {
-        "moveName": "falsesurrender"
     },
     {
         "moveName": "falseswipe"
@@ -696,16 +501,7 @@
         "moveName": "fellstinger"
     },
     {
-        "moveName": "ficklebeam"
-    },
-    {
-        "moveName": "fierydance"
-    },
-    {
         "moveName": "fierywrath"
-    },
-    {
-        "moveName": "filletaway"
     },
     {
         "moveName": "finalgambit"
@@ -730,9 +526,6 @@
     },
     {
         "moveName": "firstimpression"
-    },
-    {
-        "moveName": "fishiousrend"
     },
     {
         "moveName": "fissure"
@@ -765,31 +558,16 @@
         "moveName": "flatter"
     },
     {
-        "moveName": "fleurcannon"
-    },
-    {
         "moveName": "fling"
     },
     {
         "moveName": "flipturn"
     },
     {
-        "moveName": "floatyfall"
-    },
-    {
-        "moveName": "floralhealing"
-    },
-    {
         "moveName": "flowershield"
     },
     {
-        "moveName": "flowertrick"
-    },
-    {
         "moveName": "fly"
-    },
-    {
-        "moveName": "flyingpress"
     },
     {
         "moveName": "focusblast"
@@ -810,22 +588,10 @@
         "moveName": "foresight"
     },
     {
-        "moveName": "forestscurse"
-    },
-    {
         "moveName": "foulplay"
     },
     {
         "moveName": "freezedry"
-    },
-    {
-        "moveName": "freezeshock"
-    },
-    {
-        "moveName": "freezingglare"
-    },
-    {
-        "moveName": "freezyfrost"
     },
     {
         "moveName": "frenzyplant"
@@ -846,25 +612,10 @@
         "moveName": "furyswipes"
     },
     {
-        "moveName": "fusionbolt"
-    },
-    {
-        "moveName": "fusionflare"
-    },
-    {
         "moveName": "futuresight"
     },
     {
         "moveName": "gastroacid"
-    },
-    {
-        "moveName": "geargrind"
-    },
-    {
-        "moveName": "gearup"
-    },
-    {
-        "moveName": "geomancy"
     },
     {
         "moveName": "gigadrain"
@@ -873,22 +624,7 @@
         "moveName": "gigaimpact"
     },
     {
-        "moveName": "gigatonhammer"
-    },
-    {
-        "moveName": "glaciallance"
-    },
-    {
-        "moveName": "glaciate"
-    },
-    {
-        "moveName": "glaiverush"
-    },
-    {
         "moveName": "glare"
-    },
-    {
-        "moveName": "glitzyglow"
     },
     {
         "moveName": "grassknot"
@@ -904,9 +640,6 @@
     },
     {
         "moveName": "grassyterrain"
-    },
-    {
-        "moveName": "gravapple"
     },
     {
         "moveName": "gravity"
@@ -960,9 +693,6 @@
         "moveName": "headbutt"
     },
     {
-        "moveName": "headcharge"
-    },
-    {
         "moveName": "headlongrush"
     },
     {
@@ -976,9 +706,6 @@
     },
     {
         "moveName": "healingwish"
-    },
-    {
-        "moveName": "healorder"
     },
     {
         "moveName": "healpulse"
@@ -1044,22 +771,10 @@
         "moveName": "hydropump"
     },
     {
-        "moveName": "hydrosteam"
-    },
-    {
         "moveName": "hyperbeam"
     },
     {
-        "moveName": "hyperdrill"
-    },
-    {
         "moveName": "hyperfang"
-    },
-    {
-        "moveName": "hyperspacefury"
-    },
-    {
-        "moveName": "hyperspacehole"
     },
     {
         "moveName": "hypervoice"
@@ -1072,9 +787,6 @@
     },
     {
         "moveName": "icebeam"
-    },
-    {
-        "moveName": "iceburn"
     },
     {
         "moveName": "icefang"
@@ -1107,9 +819,6 @@
         "moveName": "incinerate"
     },
     {
-        "moveName": "infernalparade"
-    },
-    {
         "moveName": "inferno"
     },
     {
@@ -1117,9 +826,6 @@
     },
     {
         "moveName": "ingrain"
-    },
-    {
-        "moveName": "instruct"
     },
     {
         "moveName": "iondeluge"
@@ -1134,40 +840,13 @@
         "moveName": "irontail"
     },
     {
-        "moveName": "ivycudgel"
-    },
-    {
-        "moveName": "jawlock"
-    },
-    {
-        "moveName": "jetpunch"
-    },
-    {
-        "moveName": "judgment"
-    },
-    {
         "moveName": "jumpkick"
-    },
-    {
-        "moveName": "junglehealing"
     },
     {
         "moveName": "karatechop"
     },
     {
-        "moveName": "kinesis"
-    },
-    {
-        "moveName": "kingsshield"
-    },
-    {
         "moveName": "knockoff"
-    },
-    {
-        "moveName": "kowtowcleave"
-    },
-    {
-        "moveName": "landswrath"
     },
     {
         "moveName": "laserfocus"
@@ -1212,9 +891,6 @@
         "moveName": "lifedew"
     },
     {
-        "moveName": "lightofruin"
-    },
-    {
         "moveName": "lightscreen"
     },
     {
@@ -1222,9 +898,6 @@
     },
     {
         "moveName": "lockon"
-    },
-    {
-        "moveName": "lovelykiss"
     },
     {
         "moveName": "lowkick"
@@ -1236,19 +909,7 @@
         "moveName": "luckychant"
     },
     {
-        "moveName": "luminacrash"
-    },
-    {
-        "moveName": "lunarblessing"
-    },
-    {
-        "moveName": "lunardance"
-    },
-    {
         "moveName": "lunge"
-    },
-    {
-        "moveName": "lusterpurge"
     },
     {
         "moveName": "machpunch"
@@ -1257,19 +918,10 @@
         "moveName": "magicalleaf"
     },
     {
-        "moveName": "magicaltorque"
-    },
-    {
         "moveName": "magiccoat"
     },
     {
-        "moveName": "magicpowder"
-    },
-    {
         "moveName": "magicroom"
-    },
-    {
-        "moveName": "magmastorm"
     },
     {
         "moveName": "magnetbomb"
@@ -1284,16 +936,7 @@
         "moveName": "magnitude"
     },
     {
-        "moveName": "makeitrain"
-    },
-    {
-        "moveName": "malignantchain"
-    },
-    {
         "moveName": "matblock"
-    },
-    {
-        "moveName": "matchagotcha"
     },
     {
         "moveName": "meanlook"
@@ -1329,9 +972,6 @@
         "moveName": "metalsound"
     },
     {
-        "moveName": "meteorassault"
-    },
-    {
         "moveName": "meteorbeam"
     },
     {
@@ -1341,16 +981,10 @@
         "moveName": "metronome"
     },
     {
-        "moveName": "mightycleave"
-    },
-    {
         "moveName": "milkdrink"
     },
     {
         "moveName": "mimic"
-    },
-    {
-        "moveName": "mindblown"
     },
     {
         "moveName": "mindreader"
@@ -1374,9 +1008,6 @@
         "moveName": "mist"
     },
     {
-        "moveName": "mistball"
-    },
-    {
         "moveName": "mistyexplosion"
     },
     {
@@ -1386,19 +1017,10 @@
         "moveName": "moonblast"
     },
     {
-        "moveName": "moongeistbeam"
-    },
-    {
         "moveName": "moonlight"
     },
     {
         "moveName": "morningsun"
-    },
-    {
-        "moveName": "mortalspin"
-    },
-    {
-        "moveName": "mountaingale"
     },
     {
         "moveName": "mudbomb"
@@ -1416,13 +1038,7 @@
         "moveName": "mudsport"
     },
     {
-        "moveName": "multiattack"
-    },
-    {
         "moveName": "mysticalfire"
-    },
-    {
-        "moveName": "mysticalpower"
     },
     {
         "moveName": "nastyplot"
@@ -1434,13 +1050,7 @@
         "moveName": "naturepower"
     },
     {
-        "moveName": "naturesmadness"
-    },
-    {
         "moveName": "needlearm"
-    },
-    {
-        "moveName": "nightdaze"
     },
     {
         "moveName": "nightmare"
@@ -1455,25 +1065,10 @@
         "moveName": "nobleroar"
     },
     {
-        "moveName": "noretreat"
-    },
-    {
-        "moveName": "noxioustorque"
-    },
-    {
         "moveName": "nuzzle"
     },
     {
-        "moveName": "oblivionwing"
-    },
-    {
-        "moveName": "obstruct"
-    },
-    {
         "moveName": "octazooka"
-    },
-    {
-        "moveName": "octolock"
     },
     {
         "moveName": "odorsleuth"
@@ -1485,13 +1080,7 @@
         "moveName": "orderup"
     },
     {
-        "moveName": "originpulse"
-    },
-    {
         "moveName": "outrage"
-    },
-    {
-        "moveName": "overdrive"
     },
     {
         "moveName": "overheat"
@@ -1530,13 +1119,7 @@
         "moveName": "photongeyser"
     },
     {
-        "moveName": "pikapapow"
-    },
-    {
         "moveName": "pinmissile"
-    },
-    {
-        "moveName": "plasmafists"
     },
     {
         "moveName": "playnice"
@@ -1572,16 +1155,10 @@
         "moveName": "poltergeist"
     },
     {
-        "moveName": "populationbomb"
-    },
-    {
         "moveName": "pounce"
     },
     {
         "moveName": "pound"
-    },
-    {
-        "moveName": "powder"
     },
     {
         "moveName": "powdersnow"
@@ -1611,22 +1188,10 @@
         "moveName": "powerwhip"
     },
     {
-        "moveName": "precipiceblades"
-    },
-    {
-        "moveName": "present"
-    },
-    {
-        "moveName": "prismaticlaser"
-    },
-    {
         "moveName": "protect"
     },
     {
         "moveName": "psybeam"
-    },
-    {
-        "moveName": "psyblade"
     },
     {
         "moveName": "psychic"
@@ -1641,9 +1206,6 @@
         "moveName": "psychicterrain"
     },
     {
-        "moveName": "psychoboost"
-    },
-    {
         "moveName": "psychocut"
     },
     {
@@ -1653,13 +1215,7 @@
         "moveName": "psychup"
     },
     {
-        "moveName": "psyshieldbash"
-    },
-    {
         "moveName": "psyshock"
-    },
-    {
-        "moveName": "psystrike"
     },
     {
         "moveName": "psywave"
@@ -1668,13 +1224,7 @@
         "moveName": "punishment"
     },
     {
-        "moveName": "purify"
-    },
-    {
         "moveName": "pursuit"
-    },
-    {
-        "moveName": "pyroball"
     },
     {
         "moveName": "quash"
@@ -1692,13 +1242,7 @@
         "moveName": "rage"
     },
     {
-        "moveName": "ragefist"
-    },
-    {
         "moveName": "ragepowder"
-    },
-    {
-        "moveName": "ragingbull"
     },
     {
         "moveName": "ragingfury"
@@ -1734,9 +1278,6 @@
         "moveName": "refresh"
     },
     {
-        "moveName": "relicsong"
-    },
-    {
         "moveName": "rest"
     },
     {
@@ -1746,25 +1287,16 @@
         "moveName": "return"
     },
     {
-        "moveName": "revelationdance"
-    },
-    {
         "moveName": "revenge"
     },
     {
         "moveName": "reversal"
     },
     {
-        "moveName": "revivalblessing"
-    },
-    {
         "moveName": "risingvoltage"
     },
     {
         "moveName": "roar"
-    },
-    {
-        "moveName": "roaroftime"
     },
     {
         "moveName": "rockblast"
@@ -1809,9 +1341,6 @@
         "moveName": "round"
     },
     {
-        "moveName": "ruination"
-    },
-    {
         "moveName": "sacredfire"
     },
     {
@@ -1821,22 +1350,13 @@
         "moveName": "safeguard"
     },
     {
-        "moveName": "saltcure"
-    },
-    {
         "moveName": "sandattack"
-    },
-    {
-        "moveName": "sandsearstorm"
     },
     {
         "moveName": "sandstorm"
     },
     {
         "moveName": "sandtomb"
-    },
-    {
-        "moveName": "sappyseed"
     },
     {
         "moveName": "scald"
@@ -1857,19 +1377,10 @@
         "moveName": "screech"
     },
     {
-        "moveName": "searingshot"
-    },
-    {
         "moveName": "secretpower"
     },
     {
-        "moveName": "secretsword"
-    },
-    {
         "moveName": "seedbomb"
-    },
-    {
-        "moveName": "seedflare"
     },
     {
         "moveName": "seismictoss"
@@ -1881,13 +1392,7 @@
         "moveName": "shadowball"
     },
     {
-        "moveName": "shadowbone"
-    },
-    {
         "moveName": "shadowclaw"
-    },
-    {
-        "moveName": "shadowforce"
     },
     {
         "moveName": "shadowpunch"
@@ -1899,9 +1404,6 @@
         "moveName": "sharpen"
     },
     {
-        "moveName": "shedtail"
-    },
-    {
         "moveName": "sheercold"
     },
     {
@@ -1911,25 +1413,13 @@
         "moveName": "shellsmash"
     },
     {
-        "moveName": "shelltrap"
-    },
-    {
-        "moveName": "shelter"
-    },
-    {
         "moveName": "shiftgear"
     },
     {
         "moveName": "shockwave"
     },
     {
-        "moveName": "shoreup"
-    },
-    {
         "moveName": "signalbeam"
-    },
-    {
-        "moveName": "silktrap"
     },
     {
         "moveName": "silverwind"
@@ -1939,12 +1429,6 @@
     },
     {
         "moveName": "sing"
-    },
-    {
-        "moveName": "sizzlyslide"
-    },
-    {
-        "moveName": "sketch"
     },
     {
         "moveName": "skillswap"
@@ -2004,16 +1488,10 @@
         "moveName": "smokescreen"
     },
     {
-        "moveName": "snaptrap"
-    },
-    {
         "moveName": "snarl"
     },
     {
         "moveName": "snatch"
-    },
-    {
-        "moveName": "snipeshot"
     },
     {
         "moveName": "snore"
@@ -2025,9 +1503,6 @@
         "moveName": "soak"
     },
     {
-        "moveName": "softboiled"
-    },
-    {
         "moveName": "solarbeam"
     },
     {
@@ -2037,25 +1512,10 @@
         "moveName": "sonicboom"
     },
     {
-        "moveName": "spacialrend"
-    },
-    {
         "moveName": "spark"
     },
     {
-        "moveName": "sparklingaria"
-    },
-    {
-        "moveName": "sparklyswirl"
-    },
-    {
-        "moveName": "spectralthief"
-    },
-    {
         "moveName": "speedswap"
-    },
-    {
-        "moveName": "spicyextract"
     },
     {
         "moveName": "spiderweb"
@@ -2073,12 +1533,6 @@
         "moveName": "spinout"
     },
     {
-        "moveName": "spiritbreak"
-    },
-    {
-        "moveName": "spiritshackle"
-    },
-    {
         "moveName": "spite"
     },
     {
@@ -2088,22 +1542,13 @@
         "moveName": "splash"
     },
     {
-        "moveName": "splishysplash"
-    },
-    {
         "moveName": "spore"
     },
     {
         "moveName": "spotlight"
     },
     {
-        "moveName": "springtidestorm"
-    },
-    {
         "moveName": "stealthrock"
-    },
-    {
-        "moveName": "steameruption"
     },
     {
         "moveName": "steamroller"
@@ -2130,9 +1575,6 @@
         "moveName": "stompingtantrum"
     },
     {
-        "moveName": "stoneaxe"
-    },
-    {
         "moveName": "stoneedge"
     },
     {
@@ -2140,9 +1582,6 @@
     },
     {
         "moveName": "stormthrow"
-    },
-    {
-        "moveName": "strangesteam"
     },
     {
         "moveName": "strength"
@@ -2178,9 +1617,6 @@
         "moveName": "sunnyday"
     },
     {
-        "moveName": "sunsteelstrike"
-    },
-    {
         "moveName": "supercellslam"
     },
     {
@@ -2194,9 +1630,6 @@
     },
     {
         "moveName": "surf"
-    },
-    {
-        "moveName": "surgingstrikes"
     },
     {
         "moveName": "swagger"
@@ -2229,13 +1662,7 @@
         "moveName": "syrupbomb"
     },
     {
-        "moveName": "tachyoncutter"
-    },
-    {
         "moveName": "tackle"
-    },
-    {
-        "moveName": "tailglow"
     },
     {
         "moveName": "tailslap"
@@ -2250,22 +1677,10 @@
         "moveName": "takedown"
     },
     {
-        "moveName": "takeheart"
-    },
-    {
-        "moveName": "tarshot"
-    },
-    {
         "moveName": "taunt"
     },
     {
         "moveName": "tearfullook"
-    },
-    {
-        "moveName": "teatime"
-    },
-    {
-        "moveName": "technoblast"
     },
     {
         "moveName": "teeterdance"
@@ -2283,19 +1698,10 @@
         "moveName": "terablast"
     },
     {
-        "moveName": "terastarstorm"
-    },
-    {
         "moveName": "terrainpulse"
     },
     {
         "moveName": "thief"
-    },
-    {
-        "moveName": "thousandarrows"
-    },
-    {
-        "moveName": "thousandwaves"
     },
     {
         "moveName": "thrash"
@@ -2308,12 +1714,6 @@
     },
     {
         "moveName": "thunderbolt"
-    },
-    {
-        "moveName": "thundercage"
-    },
-    {
-        "moveName": "thunderclap"
     },
     {
         "moveName": "thunderfang"
@@ -2337,12 +1737,6 @@
         "moveName": "tidyup"
     },
     {
-        "moveName": "topsyturvy"
-    },
-    {
-        "moveName": "torchsong"
-    },
-    {
         "moveName": "torment"
     },
     {
@@ -2350,9 +1744,6 @@
     },
     {
         "moveName": "toxicspikes"
-    },
-    {
-        "moveName": "toxicthread"
     },
     {
         "moveName": "trailblaze"
@@ -2367,31 +1758,16 @@
         "moveName": "trick"
     },
     {
-        "moveName": "trickortreat"
-    },
-    {
         "moveName": "trickroom"
-    },
-    {
-        "moveName": "triplearrows"
     },
     {
         "moveName": "tripleaxel"
     },
     {
-        "moveName": "tripledive"
-    },
-    {
         "moveName": "triplekick"
     },
     {
-        "moveName": "tropkick"
-    },
-    {
         "moveName": "trumpcard"
-    },
-    {
-        "moveName": "twinbeam"
     },
     {
         "moveName": "twineedle"
@@ -2412,19 +1788,10 @@
         "moveName": "vacuumwave"
     },
     {
-        "moveName": "vcreate"
-    },
-    {
-        "moveName": "veeveevolley"
-    },
-    {
         "moveName": "venomdrench"
     },
     {
         "moveName": "venoshock"
-    },
-    {
-        "moveName": "victorydance"
     },
     {
         "moveName": "vinewhip"
@@ -2437,9 +1804,6 @@
     },
     {
         "moveName": "voltswitch"
-    },
-    {
-        "moveName": "volttackle"
     },
     {
         "moveName": "wakeupslap"
@@ -2455,9 +1819,6 @@
     },
     {
         "moveName": "waterpulse"
-    },
-    {
-        "moveName": "watershuriken"
     },
     {
         "moveName": "watersport"
@@ -2478,16 +1839,7 @@
         "moveName": "whirlwind"
     },
     {
-        "moveName": "wickedblow"
-    },
-    {
-        "moveName": "wickedtorque"
-    },
-    {
         "moveName": "wideguard"
-    },
-    {
-        "moveName": "wildboltstorm"
     },
     {
         "moveName": "wildcharge"
@@ -2536,8 +1888,5 @@
     },
     {
         "moveName": "zingzap"
-    },
-    {
-        "moveName": "zippyzap"
     }
 ]

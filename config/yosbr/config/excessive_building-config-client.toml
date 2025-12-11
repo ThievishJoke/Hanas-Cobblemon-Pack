@@ -1,6 +1,0 @@
-["Client Toggles"]
-	#Disabling these will make the corresponding feature not show on the client
-	#Should Excessive Building items with special interactions have custom tooltips? (default: true)
-	enableCustomTooltips = true
-	#Should blocks that can be hammered display an informational tooltip? (default: true)
-	enableHammerableTooltips = true

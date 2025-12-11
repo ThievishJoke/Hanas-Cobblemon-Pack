@@ -10,7 +10,8 @@
 	# Require holding a hoe (either hands) to right-click harvest.
 	"require hoe" = false
 	# If [require hoe] is set to true, damage the hoe of the given amount (0 to disable, must be an integer).
-	#Range: > 0
+	# Default: 0
+	# Range: > 0
 	"damage on harvest" = 0
 	# Multiplier for the exhaustion caused when right-click harvesting (0 to disable, 1 for the same exhaustion regular block breaking causes).
 	# Testing is advised. Follow the table below for some approximate info (note that a player has up to 20 hunger points):
@@ -23,13 +24,15 @@
 	# 100.0              0.125                              8
 	# 200.0              0.25                               4
 	# 400.0              0.5                                2
-	#Range: 0.0 ~ 400.0
+	# Default: 1.0
+	# Range: 0.0 ~ 400.0
 	"exhaustion multiplier" = 1.0
 	# Amount of experience points to grant on harvest (0 to disable, must be an integer).
-	#Range: > 0
+	# Default: 0
+	# Range: > 0
 	"exp on harvest" = 0
 	# Whether to gather drops near the player when harvesting.
-	"gather drops" = true
+	"gather drops" = false
 
 #Multi-harvest settings
 [multiharvest]
@@ -56,7 +59,7 @@
 	# "medium" - medium harvest area size, a 3x3 square.
 	# "large" - large harvest area size, a 5x5 square.
 	#Allowed Values: SINGLE, MEDIUM, LARGE
-	"starting harvest area size" = "MEDIUM"
+	"starting harvest area size" = "SINGLE"
 	# Increment step for the harvest area size with higher tool tiers.
 	# Setting this to "none" and [starting harvest area size] to "single" will effectively disable multi-harvest.
 	# "none" - no increment, the area stays the same (as defined by [starting harvest area size]) regardless of the tool used, if any.
@@ -64,4 +67,4 @@
 	# "medium" - medium increment, the size of the area, starting from [starting harvest area size], increases by 4 with each higher tier.E.g. 1x1 -> 5x5 -> 9x9 -> ...
 	# "large" - large increment, the size of the area, starting from [starting harvest area size], increases by 6 with each higher tier.E.g. 1x1 -> 7x7 -> 13x13 -> ...
 	#Allowed Values: NONE, SMALL, MEDIUM, LARGE
-	"area increment step" = "LARGE"
+	"area increment step" = "NONE"
