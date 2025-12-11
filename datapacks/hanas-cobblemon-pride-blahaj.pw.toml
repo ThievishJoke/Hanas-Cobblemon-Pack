@@ -1,0 +1,13 @@
+name = "Hana's Pride Blahaj [Cobblemon]"
+filename = "Hanas-Cobblemon-Blahaj.v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qPcfroF/versions/EBz4kPRt/Hanas-Cobblemon-Blahaj.v1.2.zip"
+hash-format = "sha512"
+hash = "f371d348ca139e0d05df5cdb8e89ab31c44299900efa47fa4bb2f2caebf9f3ef68d05f9dd4c3ba299d74e80facd3848843cfdaee8f91878f0b401b08679930b1"
+
+[update]
+[update.modrinth]
+mod-id = "7qPcfroF"
+version = "EBz4kPRt"
