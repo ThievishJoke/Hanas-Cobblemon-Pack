@@ -1,0 +1,13 @@
+name = "Cobblemon Frontiers Datapack"
+filename = "Frontiermon v1.01.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhqFNb1N/versions/3sfgqcFR/Frontiermon%20v1.01.zip"
+hash-format = "sha512"
+hash = "35e08d69dd610e7c0f04c0d66d797616b6af9ef2f15941fe7f148087ead308dddf5dcb41eb4424373a181b6cb5e8962acde712010c827c8dc785080bb59d9b27"
+
+[update]
+[update.modrinth]
+mod-id = "DhqFNb1N"
+version = "3sfgqcFR"

@@ -1,0 +1,13 @@
+name = "[Cobblemon] Seavls Bizarremons"
+filename = "Seavls Bizarremons 1.1.0v.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xroZOavg/versions/Mx2u6Od7/Seavls%20Bizarremons%201.1.0v.zip"
+hash-format = "sha512"
+hash = "3d527737b3552a0510d681d72a2bcc6a290846776fcbadf10397d07d976c565c0938195adb03989de6009e1d42778bead934e69201f5c42203998e5d4ee37140"
+
+[update]
+[update.modrinth]
+mod-id = "xroZOavg"
+version = "Mx2u6Od7"

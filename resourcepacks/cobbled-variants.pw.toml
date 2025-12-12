@@ -1,0 +1,13 @@
+name = "Cobbled Variants"
+filename = "Cobbled_Variants_1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y3kDkp4v/versions/uMl4cWlm/Cobbled_Variants_1.4.zip"
+hash-format = "sha512"
+hash = "30ac9946c9bf7f0aa6ac63dc570f205d1616ea5bb196e51617bebf649f71da8877fe54822f438105e8220266d56573ee63cf512384f2b864d293873a2fb4e9be"
+
+[update]
+[update.modrinth]
+mod-id = "y3kDkp4v"
+version = "uMl4cWlm"

@@ -1,0 +1,13 @@
+name = "Flower Expansion [Cobblemon]"
+filename = "[4.2.1] Flower Expansion.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3nzXJ1ax/versions/HkvdB3sq/%5B4.2.1%5D%20Flower%20Expansion.zip"
+hash-format = "sha512"
+hash = "b60a1a5fc3d734bc81eb0732e3ab15265e55cc65688b9975eb037b371278115bd3a28cc9aaa584bad5293086db7ed4bc7481b71073e087631e06d5384da37eda"
+
+[update]
+[update.modrinth]
+mod-id = "3nzXJ1ax"
+version = "HkvdB3sq"

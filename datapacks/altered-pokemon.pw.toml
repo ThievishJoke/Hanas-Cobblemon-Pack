@@ -1,0 +1,13 @@
+name = "Altered Pokemon [Cobblemon Addon]"
+filename = "Altered Pokemon v1.2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RdFhfO5y/versions/pvUaBP9c/Altered%20Pokemon%20v1.2.2.zip"
+hash-format = "sha512"
+hash = "2532947fad70f991b280dc168413c51128eff3f7420f12645f697e8d229d55c8dd352f4f94a0f2fe111f7df8862a36f5ae1d5773e9886253ab734e063bbfcbc3"
+
+[update]
+[update.modrinth]
+mod-id = "RdFhfO5y"
+version = "pvUaBP9c"

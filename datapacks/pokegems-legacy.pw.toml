@@ -1,0 +1,13 @@
+name = "PokéGems Legacy pack"
+filename = "[v0.1]pokegemslegacypack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m70JJ4wr/versions/uzPsrh3E/%5Bv0.1%5Dpokegemslegacypack.zip"
+hash-format = "sha512"
+hash = "dc2f71161b2b13723bbf147d5eb2c23d678731f225e447a36fb8d9362ea5793e4941c70f346ad5ebc9d1c76ca4f574f4092d62a7d164a317f1f6e908a53b9526"
+
+[update]
+[update.modrinth]
+mod-id = "m70JJ4wr"
+version = "uzPsrh3E"

@@ -1,0 +1,13 @@
+name = "Cobblemon Sweets: Flavorful Variants Add-on"
+filename = "Cobblemon Sweets 1.7.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K6vAtd83/versions/1wAb7m84/Cobblemon%20Sweets%201.7.1.zip"
+hash-format = "sha512"
+hash = "2b9b1c958bd8fd776c18e992015d0f18088cb338797dc21d6350623958e03fdd78da11d3dc985570af6de2db678c4e897a1aa64b6f3fe84f8cefdbe978c5c8b4"
+
+[update]
+[update.modrinth]
+mod-id = "K6vAtd83"
+version = "1wAb7m84"

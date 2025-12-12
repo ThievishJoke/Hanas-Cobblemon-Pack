@@ -1,0 +1,13 @@
+name = "Extra Eeveelutions [Cobblemon]"
+filename = "extra-eeveelutions-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vZ8CfI8h/versions/r25EiaMi/extra-eeveelutions-1.2.jar"
+hash-format = "sha512"
+hash = "4610c493f7709c3147e53e1b06ff822a2e1dd984aacb474c338d1c1328c9c070a6eab206e87d2097b088b56905c3f25e6822bacdb315b486ea35c40f8db76240"
+
+[update]
+[update.modrinth]
+mod-id = "vZ8CfI8h"
+version = "r25EiaMi"
