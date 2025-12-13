@@ -8984,12 +8984,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "a79daf13cd11d021c7a3c7698d9ef507befe43c8088a90bd2d89182d7985de27"
+hash = "5947bb5ad03e572c7ed2409ff70bb5f216906eb0e9e24f714a0a4879e1a532ca"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "fc7a3205265fa134af1ba4e65bbe9cd12f0dc8861f73ec7e199dd9e2a339c654"
+hash = "3e714a17d24cde3abc0f6a71e55bd1f111bc11a6394fbe2432e0455a6b567315"
 metafile = true
 
 [[files]]
@@ -9109,7 +9109,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "efe87e523b5027f693e881948891cdd7fc36be9dc4f6d9afde39aefd0a535062"
+hash = "5ec0be994947ed8157c8b4f158e7c43c0ba4abc5c45be5dfedc388b3b80138d9"
 metafile = true
 
 [[files]]
@@ -9354,7 +9354,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
+hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
 metafile = true
 
 [[files]]
@@ -9589,7 +9589,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
-hash = "1c78a6a433a8430a270b786c03e386d3f480efe615b98491d9e3d7d6e601c14e"
+hash = "fd1a01b9d98ce795258002c0179e69c537776325508fa769735c25557e427c5a"
 metafile = true
 
 [[files]]
