@@ -8888,6 +8888,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "c6c07b0c2e1118289d736ee0f0760b8ff53f21d071305987052dc5687d03d8fb"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "6e39e7712a94830fbc2bd0b6ec73e03f54de5edfcca85da6e89a0021e9a3bf1a"
 metafile = true
@@ -9040,11 +9045,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a2316b374cef47920604f89b1ce784aa3e1e4c80088259e7704ce5fe47c14721"
-metafile = true
-
-[[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "44545d0ba9a51bd5f63f0c98e097b377398089608daf434fe18fd9e9766b6c80"
 metafile = true
 
 [[files]]
